@@ -1,0 +1,406 @@
+Species Name,Common name,Clade,Order,Family,ID,Accession
+Charadrius vociferus,Killdeer,Aves,Charadriiformes,Charadriidae,APP-001,GCA_000708025.2
+Acanthisitta chloris,Rifleman,Aves,Passeriformes,Acanthisittidae,APP-002,GCA_000695815.1
+Apaloderma vittatum,Bar-tailed Trogon,Aves,Trogoniformes,Trogonidae,APP-004,GCA_000703405.1
+Aptenodytes forsteri,Emperor Penguin,Aves,Sphenisciformes,Spheniscidae,APP-005,GCA_000699145.1
+Balearica regulorum,Grey-crowned Crane,Aves,Gruiformes,Gruidae,APP-006,GCA_000709895.1
+Buceros rhinoceros,Rhinoceros Hornbill,Aves,Bucerotiformes,Bucerotidae,APP-007,GCA_000710305.1
+Calypte anna,Anna's Hummingbird,Aves,Caprimulgiformes,Trochilidae,APP-008,GCA_000699085.1
+Antrostomus carolinensis,Chuck-will's-widow,Aves,Caprimulgiformes,Caprimulgidae,APP-009,GCA_000700745.1
+Cariama cristata,Red-legged Seriema,Aves,Cariamiformes,Cariamidae,APP-010,GCA_000690535.1
+Cathartes aura,Turkey Vulture,Aves,Accipitriformes,Cathartidae,APP-011,GCA_000699945.1
+Chaetura pelagica,Chimney Swift,Aves,Caprimulgiformes,Apodidae,APP-012,GCA_000747805.1
+Chlamydotis macqueenii,MacQueen's Bustard,Aves,Otidiformes,Otididae,APP-013,GCA_000695195.1
+Colius striatus,Speckled Mousebird,Aves,Coliiformes,Coliidae,APP-014,GCA_000690715.1
+Columba livia,Domestic Pigeon (Rock Dove),Aves,Columbiformes,Columbidae,APP-015,GCA_000337935.2
+Corvus brachyrhynchos,American Crow,Aves,Passeriformes,Corvidae,APP-016,GCA_000691975.1
+Cuculus canorus,Common Cuckoo,Aves,Cuculiformes,Cuculidae,APP-017,GCA_000709325.1
+Egretta garzetta,Little Egret,Aves,Pelecaniformes,Ardeidae,APP-018,GCA_000687185.1
+Eurypyga helias,Sunbittern,Aves,Eurypygiformes,Eurypygidae,APP-019,GCA_000690775.1
+Falco peregrinus,Peregrine Falcon,Aves,Falconiformes,Falconidae,APP-020,GCA_000337955.1
+Fulmarus glacialis,Northern Fulmar,Aves,Procellariiformes,Procellariidae,APP-021,GCA_000690835.1
+Gavia stellata,Red-throated Diver,Aves,Gaviiformes,Gaviidae,APP-022,GCA_000690875.1
+Geospiza fortis,Medium Ground Finch,Aves,Passeriformes,Thraupidae,APP-023,GCA_000277835.1
+Haliaeetus leucocephalus,Bald Eagle,Aves,Accipitriformes,Accipitridae,APP-025,GCA_000737465.1
+Leptosomus discolor,Cuckoo-roller,Aves,Leptosomatiformes,Leptosomidae,APP-026,GCA_000691785.1
+Melopsittacus undulatus,Budgerigar,Aves,Psittaciformes,Psittaculidae,APP-028,ERP002324(ENA Accession)
+Merops nubicus,Northern Carmine Bee-eater,Aves,Coraciiformes,Meropidae,APP-029,GCA_000691845.1
+Mesitornis unicolor,Brown Mesite,Aves,Mesitornithiformes,Mesitornithidae,APP-030,GCA_000695765.1
+Nestor notabilis,Kea,Aves,Psittaciformes,Strigopidae,APP-031,GCA_000696875.1
+Nipponia nippon,Imperial Crested Ibis,Aves,Pelecaniformes,Threskiornithidae,APP-032,GCA_000708225.1
+Opisthocomus hoazin,Hoatzin,Aves,Opisthocomiformes,Opisthocomidae,APP-033,GCA_000692075.1
+Pelecanus crispus,Dalmatian Pelican,Aves,Pelecaniformes,Pelecanidae,APP-034,GCA_000687375.1
+Phaethon lepturus,White-tailed Tropicbird,Aves,Phaethontiformes,Phaethontidae,APP-035,GCA_000687285.1
+Phalacrocorax carbo,Great Cormorant,Aves,Pelecaniformes,Phalacrocoracidae,APP-036,GCA_000708925.1
+Phoenicopterus ruber,American Flamingo,Aves,Phoenicopteriformes,Phoenicopteridae,APP-037,GCA_000687265.1
+Picoides pubescens,Downy Woodpecker,Aves,Piciformes,Picidae,APP-038,GCA_000699005.1
+Podiceps cristatus,Great Crested Grebe,Aves,Podicipiformes,Podicipedidae,APP-039,GCA_000699545.1
+Pterocles gutturalis,Yellow-throated Sandgrouse,Aves,Pterocliformes,Pteroclidae,APP-040,GCA_000699245.1
+Pygoscelis adeliae,Adelie Penguin,Aves,Sphenisciformes,Spheniscidae,APP-041,GCA_000699105.1
+Struthio camelus,Common Ostrich,Aves,Struthioniformes,Struthionidae,APP-042,GCA_000698965.1
+Tauraco erythrolophus,Red-crested Turaco,Aves,Musophagiformes,Musophagidae,APP-043,GCA_000709365.1
+Tinamus guttatus,White-throated Tinamou,Aves,Tinamiformes,Tinamidae,APP-044,GCA_000705375.2
+Tyto alba,Common Barn Owl,Aves,Strigiformes,Tytonidae,APP-045,GCA_000687205.1
+Callaeas wilsoni,North Island Kokako,Aves,Passeriformes,Callaeidae,B10K-Callaeas-wilsoni,VWPU00000000
+Casuarius casuarius,Southern Cassowary,Aves,Casuariiformes,Casuariidae,B10K-Casuarius-casuarius,VWPT00000000
+Crypturellus soui,Little Tinamou,Aves,Tinamiformes,Tinamidae,B10K-Crypturellus-soui,VWPX00000000
+Crypturellus undulatus,Undulated Tinamou,Aves,Tinamiformes,Tinamidae,B10K-Crypturellus-undulatus,VWPW00000000
+Menura novaehollandiae,Superb Lyrebird,Aves,Passeriformes,Menuridae,B10K-CU-030-46,VWPS00000000
+Ardeotis kori,Kori Bustard,Aves,Otidiformes,Otididae,B10K-CU-031-01,VWPR00000000
+Ceuthmochares aereus,Yellowbill,Aves,Cuculiformes,Cuculidae,B10K-CU-031-02,VWPQ00000000
+Cochlearius cochlearius,Boat-billed Heron,Aves,Pelecaniformes,Ardeidae,B10K-CU-031-03,VWPP00000000
+Geococcyx californianus,Greater Roadrunner,Aves,Cuculiformes,Cuculidae,B10K-CU-031-07,VWPV00000000
+Glareola pratincola,Collared Pratincole,Aves,Charadriiformes,Glareolidae,B10K-CU-031-08,VWPO00000000
+Nyctibius bracteatus,Rufous Potoo,Aves,Caprimulgiformes,Nyctibiidae,B10K-CU-031-10,VWZB00000000
+Oceanites oceanicus,Wilson's Storm-petrel,Aves,Procellariiformes,Oceanitidae,B10K-CU-031-11,VWZA00000000
+Rhodinocichla rosea,Rosy Thrush Tanager,Aves,Passeriformes,Rhodinocichlidae,B10K-CU-031-12,VWYZ00000000
+Tachuris rubrigastra,Many-colored Rush Tyrant,Aves,Passeriformes,Tachurididae,B10K-CU-031-13,VZRD00000000
+Ptilorrhoa leucosticta,Spotted Jewel-babbler,Aves,Passeriformes,Cinclosomatidae,B10K-CU-031-17,VWYY00000000
+Chaetorhynchus papuensis,Pygmy Drongo,Aves,Passeriformes,Rhipiduridae,B10K-CU-031-19,VWYX00000000
+Smithornis capensis,African Broadbill,Aves,Passeriformes,Calyptomenidae,B10K-CU-031-20,VWYW00000000
+Chunga burmeisteri,Black-legged Seriema,Aves,Cariamiformes,Cariamidae,B10K-CU-031-22,VZRC00000000
+Lophotis ruficrista,Red-crested Bustard,Aves,Otidiformes,Otididae,B10K-CU-031-23,VWYV00000000
+Anhinga anhinga,Anhinga,Aves,Pelecaniformes,Anhingidae,B10K-CU-031-38,WBMU00000000
+Corythaeola cristata,Great Blue Turaco,Aves,Musophagiformes,Musophagidae,B10K-CU-031-40,WBMX00000000
+Dromaius novaehollandiae,Emu,Aves,Casuariiformes,Casuariidae,B10K-Dromaius-novaehollandiae,VWZH00000000
+Cephalopterus ornatus,Amazonian Umbrellabird,Aves,Passeriformes,Cotingidae,B10K-DU-001-01,VZRE00000000
+Grallaria varia,Variegated Antpitta,Aves,Passeriformes,Grallariidae,B10K-DU-001-02,VWZG00000000
+Sclerurus mexicanus,Tawny-throated Leaftosser,Aves,Passeriformes,Scleruridae,B10K-DU-001-03,VWZF00000000
+Eubucco bourcierii,Red-headed Barbet,Aves,Piciformes,Ramphastidae,B10K-DU-001-04,VWZE00000000
+Sakesphorus luctuosus,Glossy Antshrike,Aves,Passeriformes,Thamnophilidae,B10K-DU-001-06,VWZD00000000
+Ciccaba nigrolineata,Black-and-white Owl,Aves,Strigiformes,Strigidae,B10K-DU-001-07,VWZC00000000
+Penelope pileata,White-crested Guan,Aves,Galliformes,Cracidae,B10K-DU-001-08,WBMW00000000
+Campylorhamphus procurvoides,Curved-billed Scythebill,Aves,Passeriformes,Dendrocolaptidae,B10K-DU-001-09,WBMV00000000
+Alaudala cheleensis,Asian Short-toed Lark,Aves,Passeriformes,Alaudidae,B10K-DU-001-15,VWYE00000000
+Bucco capensis,Collared Puffbird,Aves,Piciformes,Bucconidae,B10K-DU-001-16,VWZO00000000
+Catharus fuscescens,Veery,Aves,Passeriformes,Turdidae,B10K-DU-001-17,VWYD00000000
+Regulus satrapa,Golden-crowned Kinglet,Aves,Passeriformes,Regulidae,B10K-DU-001-18,VWZN00000000
+Loxia leucoptera,White-winged Crossbill,Aves,Passeriformes,Fringillidae,B10K-DU-001-19,VWZM00000000
+Stercorarius parasiticus,Artic Skua,Aves,Charadriiformes,Stercorariidae,B10K-DU-001-20,VWZL00000000
+Baryphthengus martii,Rufous Motmot,Aves,Coraciiformes,Momotidae,B10K-DU-001-21,VWZK00000000
+Vireo altiloquus,Black-whiskered Vireo,Aves,Passeriformes,Vireonidae,B10K-DU-001-22,VZRF00000000
+Hemiprocne comata,Whiskered Treeswift,Aves,Caprimulgiformes,Apodidae,B10K-DU-001-23,VWZJ00000000
+Psilopogon haemacephalus,Coppersmith Barbet,Aves,Piciformes,Ramphastidae,B10K-DU-001-24,VWZI00000000
+Edolisoma coerulescens,Blackish Cicadabird,Aves,Passeriformes,Campephagidae,B10K-DU-001-25,VWZW00000000
+Irena cyanogastra,Philippine Fairy-bluebird,Aves,Passeriformes,Irenidae,B10K-DU-001-26,VWZV00000000
+Sterrhoptilus dennistouni,Golden-crowned Babbler,Aves,Passeriformes,Zosteropidae,B10K-DU-001-27,VWZU00000000
+Pachycephala philippinensis,Yellow-bellied Whistler,Aves,Passeriformes,Pachycephalidae,B10K-DU-001-28,VWZT00000000
+Rhabdornis inornatus,Stripe-breasted Rhabdornis,Aves,Passeriformes,Sturnidae,B10K-DU-001-29,VWZS00000000
+Ramphastos sulfuratus,Keel-billed Toucan,Aves,Piciformes,Ramphastidae,B10K-DU-001-30,WBNM00000000
+Quiscalus mexicanus,Great-tailed Grackle,Aves,Passeriformes,Icteridae,B10K-DU-001-31,VWYF00000000
+Hydrobates tethys,Wedge-rumped Storm-petrel,Aves,Procellariiformes,Hydrobatidae,B10K-DU-001-32,VWZR00000000
+Myiagra hebetior,Velvet Myiagra,Aves,Passeriformes,Monarchidae,B10K-DU-001-33,VWZQ00000000
+Dicaeum eximium,Red-banded Flowerpecker,Aves,Passeriformes,Dicaeidae,B10K-DU-001-34,VWZP00000000
+Leptocoma aspasia,Black Sunbird,Aves,Passeriformes,Nectariniidae,B10K-DU-001-35,VXAX00000000
+Zosterops hypoxanthus,Bismarck White-eye,Aves,Passeriformes,Zosteropidae,B10K-DU-001-36,VWYL00000000
+Tyrannus savana,Fork-tailed Flycatcher,Aves,Passeriformes,Tyrannidae,B10K-DU-001-37,VXAW00000000
+Alectura lathami,Australian Brush-turkey,Aves,Galliformes,Megapodiidae,B10K-DU-001-39,VXAV00000000
+Podargus strigoides,Tawny Frogmouth,Aves,Caprimulgiformes,Podargidae,B10K-DU-001-40,VZTK00000000
+Semnornis frantzii,Prong-billed Barbet,Aves,Piciformes,Ramphastidae,B10K-DU-001-42,VWYK00000000
+Formicarius rufipectus,Rufous-breasted Ant-thrush,Aves,Passeriformes,Formicariidae,B10K-DU-001-43,VXAU00000000
+Mesembrinibis cayennensis,Green Ibis,Aves,Pelecaniformes,Threskiornithidae,B10K-DU-001-44,VXAT00000000
+Setophaga kirtlandii,Kirtland's Warbler,Aves,Passeriformes,Parulidae,B10K-DU-001-45,VXAS00000000
+Amazona guildingii,St. Vincent Parrot,Aves,Psittaciformes,Psittacidae,B10K-DU-001-46,VXAR00000000
+Ciconia maguari,Maguari Stork,Aves,Pelecaniformes,Ciconiidae,B10K-DU-001-47,VXAE00000000
+Dicrurus megarhynchus,Ribbon-tailed Drongo,Aves,Passeriformes,Dicruridae,B10K-DU-001-48,VXAD00000000
+Rhipidura dahli,Bismarck Fantail,Aves,Passeriformes,Rhipiduridae,B10K-DU-001-49,VXAC00000000
+Odontophorus gujanensis,Marbled Wood Quail,Aves,Galliformes,Odontophoridae,B10K-DU-001-53,VXAB00000000
+Heliornis fulica,Sungrebe,Aves,Gruiformes,Heliornithidae,B10K-DU-001-55,VXBZ00000000
+Nyctibius grandis,Great Potoo,Aves,Caprimulgiformes,Nyctibiidae,B10K-DU-001-56,VWYG00000000
+Anseranas semipalmata,Magpie Goose,Aves,Anseriformes,Anseranatidae,B10K-DU-001-57,VXAA00000000
+Psophia crepitans,Grey-winged Trumpeter,Aves,Gruiformes,Psophiidae,B10K-DU-001-60,VWZZ00000000
+Chloroceryle aenea,American Pygmy Kingfisher,Aves,Coraciiformes,Alcedinidae,B10K-DU-001-61,VWZY00000000
+Galbula dea,Paradise Jacamar,Aves,Piciformes,Galbulidae,B10K-DU-001-62,VWZX00000000
+Donacobius atricapilla,Donacobius,Aves,Passeriformes,Donacobiidae,B10K-DU-001-63,WBMY00000000
+Burhinus bistriatus,Double-striped Thick-knee,Aves,Charadriiformes,Burhinidae,B10K-DU-001-64,VYXH00000000
+Lanius ludovicianus,Loggerhead Shrike,Aves,Passeriformes,Laniidae,B10K-DU-001-65,VYXG00000000
+Polioptila caerulea,Blue-gray Gnatcatcher,Aves,Passeriformes,Polioptilidae,B10K-DU-001-66,VYXF00000000
+Hirundo rustica,Barn Swallow,Aves,Passeriformes,Hirundinidae,B10K-DU-001-67,VZZX00000000
+Thryothorus ludovicianus,Carolina Wren,Aves,Passeriformes,Troglodytidae,B10K-DU-001-68,VZTB00000000
+Cardinalis cardinalis,Northern Cardinal,Aves,Passeriformes,Cardinalidae,B10K-DU-001-69,VYXE00000000
+Hylia prasina,Green Hylia,Aves,Passeriformes,Scotocercidae,B10K-DU-001-70,VYXD00000000
+Dyaphorophyia castanea,Chestnut Wattle-eye,Aves,Passeriformes,Platysteiridae,B10K-DU-001-71,VYXC00000000
+Pachyramphus minor,Pink-throated Becard,Aves,Passeriformes,Tityridae,B10K-DU-001-72,VYXB00000000
+Oenanthe oenanthe,Northern Wheatear,Aves,Passeriformes,Muscicapidae,B10K-DU-001-74,VXBF00000000
+Motacilla alba,White Wagtail,Aves,Passeriformes,Motacillidae,B10K-DU-001-75,VXBE00000000
+Cinclus mexicanus,American Dipper,Aves,Passeriformes,Cinclidae,B10K-DU-001-77,VWYM00000000
+Indicator maculatus,Spotted Honeyguide,Aves,Piciformes,Indicatoridae,B10K-DU-001-78,VXBD00000000
+Ploceus nigricollis,Black-necked Weaver,Aves,Passeriformes,Ploceidae,B10K-DU-001-79,VXBC00000000
+Illadopsis cleaveri,Black-capped Thrush Babbler,Aves,Passeriformes,Pellorneidae,B10K-DU-002-01,VXBB00000000
+Leucopsar rothschildi,Bali Myna,Aves,Passeriformes,Sturnidae,B10K-DU-002-02,VZTC00000000
+Serilophus lunatus,Silver-breasted Broadbill,Aves,Passeriformes,Eurylaimidae,B10K-DU-002-03,VXBA00000000
+Gymnorhina tibicen,Australian Magpie,Aves,Passeriformes,Artamidae,B10K-DU-002-05,VXAZ00000000
+Oxyruncus cristatus,Sharpbill,Aves,Passeriformes,Oxyruncidae,B10K-DU-002-07,VXAY00000000
+Sinosuthora webbiana,Vinous-throated Parrotbill,Aves,Passeriformes,Sylviidae,B10K-DU-002-08,VXBN00000000
+Locustella ochotensis,Middendorff's Warbler,Aves,Passeriformes,Locustellidae,B10K-DU-002-09,VXBM00000000
+Aegithalos caudatus,Long-tailed Tit,Aves,Passeriformes,Aegithalidae,B10K-DU-002-10,WEIU00000000
+Aramus guarauna,Limpkin,Aves,Gruiformes,Aramidae,B10K-DU-002-11,VXBL00000000
+Himantopus himantopus,Black-winged Stilt,Aves,Charadriiformes,Recurvirostridae,B10K-DU-002-13,VXBK00000000
+Nycticryphes semicollaris,South American Painted-snipe,Aves,Charadriiformes,Rostratulidae,B10K-DU-002-14,VXBJ00000000
+Toxostoma redivivum,California Thrasher,Aves,Passeriformes,Mimidae,B10K-DU-002-15,VXBI00000000
+Rynchops niger,Black Skimmer,Aves,Charadriiformes,Laridae,B10K-DU-002-16,VXBH00000000
+Hippolais icterina,Icterine Warbler,Aves,Passeriformes,Acrocephalidae,B10K-DU-002-18,VWYN00000000
+Sylvia borin,Garden Warbler,Aves,Passeriformes,Sylviidae,B10K-DU-002-19,VXBG00000000
+Certhia brachydactyla,Short-toed Treecreeper,Aves,Passeriformes,Certhiidae,B10K-DU-002-20,VXBV00000000
+Paradisaea raggiana,Raggiana Bird-of-paradise,Aves,Passeriformes,Paradisaeidae,B10K-DU-002-22,GCA_003713265.1
+Bombycilla garrulus,Bohemian Waxwing,Aves,Passeriformes,Bombycillidae,B10K-DU-002-23,VXBU00000000
+Oriolus oriolus,Eurasian Golden Oriole,Aves,Passeriformes,Oriolidae,B10K-DU-002-24,VXBT00000000
+Sitta europaea,Eurasian Nuthatch,Aves,Passeriformes,Sittidae,B10K-DU-002-25,VXBS00000000
+Rhadina sibilatrix,Wood Warbler,Aves,Passeriformes,Phylloscopidae,B10K-DU-002-26,VWYO00000000
+Larus smithsonianus,American Herring Gull,Aves,Charadriiformes,Laridae,B10K-DU-002-28,WAAC00000000
+Cisticola juncidis,Zitting Cisticola,Aves,Passeriformes,Cisticolidae,B10K-DU-002-30,VXBR00000000
+Phainopepla nitens,Phainopepla,Aves,Passeriformes,Ptiliogonatidae,B10K-DU-002-32,VXBQ00000000
+Rhinopomastus cyanomelas,Common Scimitarbill,Aves,Bucerotiformes,Phoeniculidae,B10K-DU-002-35,VXBP00000000
+Rhinoptilus africanus,Double-banded Courser,Aves,Charadriiformes,Glareolidae,B10K-DU-002-36,VXBO00000000
+Tricholaema leucomelas,Acacia Pied Barbet,Aves,Piciformes,Ramphastidae,B10K-DU-002-37,WAAF00000000
+Nicator chloris,Western Nicator,Aves,Passeriformes,Nicatoridae,B10K-DU-002-40,WAAE00000000
+Pycnonotus jocosus,Red-whiskered Bulbul,Aves,Passeriformes,Pycnonotidae,B10K-DU-002-42,VWYP00000000
+Leiothrix lutea,Red-billed Leiothrix,Aves,Passeriformes,Leiothrichidae,B10K-DU-002-43,VXBY00000000
+Scytalopus superciliaris,White-browed Tapaculo,Aves,Passeriformes,Rhinocryptidae,B10K-DU-002-46,VXBX00000000
+Thinocorus orbignyianus,Gray-breasted Seedsnipe,Aves,Charadriiformes,Thinocoridae,B10K-DU-002-47,VXBW00000000
+Fregata magnificens,Magnificent Frigatebird,Aves,Pelecaniformes,Fregatidae,B10K-DU-002-48,WAAD00000000
+Sula dactylatra,Masked Booby,Aves,Pelecaniformes,Sulidae,B10K-DU-002-49,WEKW00000000
+Vidua macroura,Pin-tailed Whydah,Aves,Passeriformes,Viduidae,B10K-DU-002-50,WBNN00000000
+Eurystomus gularis,Blue-throated Roller,Aves,Coraciiformes,Coraciidae,B10K-DU-002-51,VZZY00000000
+Peucedramus taeniatus,Peucedramus,Aves,Passeriformes,Peucedramidae,B10K-DU-002-52,WBNO00000000
+Pitta sordida,Hooded Pitta,Aves,Passeriformes,Pittidae,B10K-DU-002-53,WEKX00000000
+Calyptomena viridis,Green Broadbill,Aves,Passeriformes,Calyptomenidae,B10K-DU-002-55,WEIV00000000
+Dryoscopus gambensis,Northern Puffback,Aves,Passeriformes,Malaconotidae,B10K-DU-002-56,WEIT00000000
+Chloropsis cyanopogon,Lesser Green Leafbird,Aves,Passeriformes,Irenidae,B10K-DU-002-57,WEZZ00000000
+Erpornis zantholeuca,Erpornis,Aves,Passeriformes,Vireonidae,B10K-DU-002-58,VZTN00000000
+Jacana jacana,Northern Jacana,Aves,Charadriiformes,Jacanidae,B10K-DU-002-59,VZTM00000000
+Erythrocercus mccallii,Chestnut-capped Flycatcher Warbler,Aves,Passeriformes,Scotocercidae,B10K-DU-002-60,VZRG00000000
+Todus mexicanus,Puerto Rican Tody,Aves,Coraciiformes,Todidae,B10K-DU-002-69,WEIS00000000
+Scopus umbretta,Hamerkop,Aves,Pelecaniformes,Scopidae,B10K-DU-002-70,VZTL00000000
+Pomatostomus ruficeps,Chestnut-crowned Babbler,Aves,Passeriformes,Pomatostomidae,B10K-DU-002-71,VYZT00000000
+Neodrepanis coruscans,Sunbird Asity,Aves,Passeriformes,Philepittidae,B10K-DU-002-79,VYZS00000000
+Oxylabes madagascariensis,White-throated Oxylabes,Aves,Passeriformes,Bernieridae,B10K-DU-002-81,VYZR00000000
+Mystacornis crossleyi,Crossley's Vanga,Aves,Passeriformes,Vangidae,B10K-DU-002-82,VYZQ00000000
+Hypocryptadius cinnamomeus,Cinnamon Ibon,Aves,Passeriformes,Passeridae,B10K-DU-002-83,VYZP00000000
+Furnarius figulus,Band-tailed Hornero,Aves,Passeriformes,Furnariidae,B10K-DU-003-06,VYZD00000000
+Mionectes macconnelli,McConnell's Flycatcher,Aves,Passeriformes,Pipromorphidae,B10K-DU-003-16,VYZC00000000
+Syrrhaptes paradoxus,Pallas's Sandgrouse,Aves,Pterocliformes,Pteroclidae,B10K-DU-003-42,VZTO00000000
+Crotophaga sulcirostris,Groove-billed Ani,Aves,Cuculiformes,Cuculidae,B10K-DU-003-44,VYZB00000000
+Neopipo cinnamomea,Cinnamon Tyrant,Aves,Passeriformes,Platyrinchidae,B10K-DU-004-15,VYZA00000000
+Nyctiprogne leucopyga,Band-tailed Nighthawk,Aves,Caprimulgiformes,Caprimulgidae,B10K-DU-005-01,VZZU00000000
+Arenaria interpres,Ruddy Turnstone,Aves,Charadriiformes,Scolopacidae,B10K-DU-005-73,VXAK00000000
+Herpetotheres cachinnans,Laughing Falcon,Aves,Falconiformes,Falconidae,B10K-DU-005-78,VXAJ00000000
+Alopecoenas beccarii,Bronze Ground Dove,Aves,Columbiformes,Columbidae,B10K-DU-006-06,VWYH00000000
+Fregetta grallaria,White-bellied Storm-petrel,Aves,Procellariiformes,Oceanitidae,B10K-DU-006-09,VZZT00000000
+Rostratula benghalensis,Greater Painted-snipe,Aves,Charadriiformes,Rostratulidae,B10K-DU-006-20,VXAI00000000
+Piprites chloris,Wing-barred Piprites,Aves,Passeriformes,Pipritidae,B10K-DU-007-02,VXAH00000000
+Trogon melanurus,Black-tailed Trogon,Aves,Trogoniformes,Trogonidae,B10K-DU-007-40,VXAG00000000
+Spizaetus tyrannus,Black Hawk Eagle,Aves,Accipitriformes,Accipitridae,B10K-DU-007-42,VXAF00000000
+Piaya cayana,Squirrel Cuckoo,Aves,Cuculiformes,Cuculidae,B10K-DU-008-47,WAAB00000000
+Chordeiles acutipennis,Lesser Nighthawk,Aves,Caprimulgiformes,Caprimulgidae,B10K-DU-008-62,VXAQ00000000
+Glaucidium brasilianum,Ferruginous Pygmy Owl,Aves,Strigiformes,Strigidae,B10K-DU-008-63,VXAP00000000
+Podilymbus podiceps,Pied-billed Grebe,Aves,Podicipiformes,Podicipedidae,B10K-DU-009-04,VXAO00000000
+Phaetusa simplex,Large-billed Tern,Aves,Charadriiformes,Laridae,B10K-DU-009-16,VZZW00000000
+Sylvietta virens,Green Crombec,Aves,Passeriformes,Macrosphenidae,B10K-DU-009-59,VXAN00000000
+Circaetus pectoralis,Black-chested Snake Eagle,Aves,Accipitriformes,Accipitridae,B10K-DU-010-60,VZZV00000000
+Corythaixoides concolor,Grey Go-away-bird,Aves,Musophagiformes,Musophagidae,B10K-DU-011-20,VXAM00000000
+Chauna torquata,Southern Screamer,Aves,Anseriformes,Anhimidae,B10K-DU-011-36,VXAL00000000
+Sagittarius serpentarius,Secretary-bird,Aves,Accipitriformes,Sagittariidae,B10K-DU-011-38,VWYJ00000000
+Anthoscopus minutus,Cape Penduline Tit,Aves,Passeriformes,Remizidae,B10K-DU-011-42,VWYI00000000
+Zapornia atra,Henderson Crake,Aves,Gruiformes,Rallidae,B10K-DU-011-47,VZTU00000000
+Buphagus erythrorhynchus,Red-billed Oxpecker,Aves,Passeriformes,Buphagidae,B10K-DU-012-02,VZTT00000000
+Ptilonorhynchus violaceus,Satin Bowerbird,Aves,Passeriformes,Ptilonorhynchidae,B10K-DU-012-10,VZRJ00000000
+Pluvianellus socialis,Magellanic Plover,Aves,Charadriiformes,Chionidae,B10K-DU-012-14,VZTS00000000
+Picathartes gymnocephalus,White-necked Rockfowl,Aves,Passeriformes,Eupetidae,B10K-DU-012-30,WEKY00000000
+Upupa epops,Common Hoopoe,Aves,Bucerotiformes,Upupidae,B10K-DU-012-37,VZRI00000000
+Urocynchramus pylzowi,Przevalski's Rosefinch,Aves,Passeriformes,Urocynchramidae,B10K-DU-012-38,VZRH00000000
+Chaetops frenatus,Rockjumper,Aves,Passeriformes,Eupetidae,B10K-DU-012-41,VZTR00000000
+Pelecanoides urinatrix,Common Diving Petrel,Aves,Procellariiformes,Procellariidae,B10K-DU-012-45,VZTQ00000000
+Prunella fulvescens,Brown Accentor,Aves,Passeriformes,Prunellidae,B10K-DU-012-46,VZTP00000000
+Tichodroma muraria,Wallcreeper,Aves,Passeriformes,Sittidae,B10K-DU-012-47,WAAG00000000
+Brachypteracias leptosomus,Short-legged Ground-roller,Aves,Coraciiformes,Brachypteraciidae,B10K-DU-012-52,VYZX00000000
+Dromas ardeola,Crab-plover,Aves,Charadriiformes,Dromadidae,B10K-DU-012-55,VYZM00000000
+Balaeniceps rex,Shoebill,Aves,Pelecaniformes,Balaenicipitidae,B10K-DU-012-56,VYZW00000000
+Pandion haliaetus,Osprey,Aves,Accipitriformes,Pandionidae,B10K-DU-012-58,VYZV00000000
+Grus americana,Whooping Crane,Aves,Gruiformes,Gruidae,B10K-DU-012-65,WEIX00000000
+Bucorvus abyssinicus,Northern Ground Hornbill,Aves,Bucerotiformes,Bucerotidae,B10K-DU-012-80,VYZL00000000
+Prunella himalayana,Altai Accentor,Aves,Passeriformes,Prunellidae,B10K-DU-013-18,VYZK00000000
+Ceyx cyanopectus,Indigo-banded Kingfisher,Aves,Coraciiformes,Alcedinidae,B10K-DU-013-51,VYZU00000000
+Emberiza fucata,Chestnut-eared Bunting,Aves,Passeriformes,Emberizidae,B10K-DU-015-11,VYZJ00000000
+Calcarius ornatus,Chestnut-collared Longspur,Aves,Passeriformes,Plectrophenacidae,B10K-DU-015-28,WBNL00000000
+Centropus bengalensis,Lesser Coucal,Aves,Cuculiformes,Cuculidae,B10K-DU-017-21,WBNK00000000
+Centropus unirufus,Rufous Coucal,Aves,Cuculiformes,Cuculidae,B10K-DU-017-25,VYZI00000000
+Probosciger aterrimus,Palm Cockatoo,Aves,Psittaciformes,Cacatuidae,B10K-DU-017-47,VYZH00000000
+Columbina picui,Picui Ground Dove,Aves,Columbiformes,Columbidae,B10K-DU-021-26,VYZG00000000
+Chroicocephalus maculipennis,Brown-hooded Gull,Aves,Charadriiformes,Laridae,B10K-DU-021-33,VYZF00000000
+Spizella passerina,Chipping Sparrow,Aves,Passeriformes,Passerellidae,B10K-DU-023-52,WBNQ00000000
+Halcyon senegalensis,Woodland Kingfisher,Aves,Coraciiformes,Alcedinidae,B10K-DU-024-03,WBNJ00000000
+Eolophus roseicapilla,Galah,Aves,Psittaciformes,Cacatuidae,B10K-DU-025-06,WBNI00000000
+Pterocles burchelli,Burchell's Sandgrouse,Aves,Pterocliformes,Pteroclidae,B10K-DU-027-49,VYZE00000000
+Onychorhynchus coronatus,Royal Flycatcher,Aves,Passeriformes,Onychorhynchidae,B10K-DU-028-75,VZRK00000000
+Thalassarche chlororhynchos,Yellow-nosed Albatross,Aves,Procellariiformes,Diomedeidae,B10K-DU-029-24,VZTW00000000
+Anhinga rufa,African Darter,Aves,Pelecaniformes,Anhingidae,B10K-DU-029-28,VZTV00000000
+Orthonyx spaldingii,Chowchilla,Aves,Passeriformes,Orthonychidae,B10K-DU-029-32,VZTJ00000000
+Struthidea cinerea,Apostlebird,Aves,Passeriformes,Corcoracidae,B10K-DU-029-33,VZTI00000000
+Aleadryas rufinucha,Rufous-naped Bellbird,Aves,Passeriformes,Oreoicidae,B10K-DU-029-36,VZTH00000000
+Melanocharis versteri,Fan-tailed Berrypecker,Aves,Passeriformes,Melanocharitidae,B10K-DU-029-37,VZTG00000000
+Cnemophilus loriae,Loria's Satinbird,Aves,Passeriformes,Cnemophilidae,B10K-DU-029-38,VZTF00000000
+Eulacestoma nigropectus,Wattled Ploughbill,Aves,Passeriformes,Eulacestomatidae,B10K-DU-029-39,VZTE00000000
+Rhagologus leucostigma,False Whistler,Aves,Passeriformes,Rhagologidae,B10K-DU-029-40,VZTD00000000
+Ifrita kowaldi,Ifrit,Aves,Passeriformes,Ifritidae,B10K-DU-029-41,VZRS00000000
+Oreocharis arfaki,Tit Berrypecker,Aves,Passeriformes,Paramythiidae,B10K-DU-029-42,VZRR00000000
+Machaerirhynchus nigripectus,Black-breasted Boatbill,Aves,Passeriformes,Machaerirhynchidae,B10K-DU-029-43,VZRQ00000000
+Malurus elegans,Red-winged Fairywren,Aves,Passeriformes,Maluridae,B10K-DU-029-44,VZRP00000000
+Turnix velox,Little Buttonquail,Aves,Charadriiformes,Turnicidae,B10K-DU-029-46,VZTY00000000
+Daphoenositta chrysoptera,Varied Sittella,Aves,Passeriformes,Neosittidae,B10K-DU-029-47,VZRO00000000
+Dasyornis broadbenti,Rufous Bristlebird,Aves,Passeriformes,Dasyornithidae,B10K-DU-029-49,VZRN00000000
+Grantiella picta,Painted Honeyeater,Aves,Passeriformes,Meliphagidae,B10K-DU-029-50,VZRM00000000
+Pardalotus punctatus,Spotted Pardalote,Aves,Passeriformes,Pardalotidae,B10K-DU-029-51,VZTX00000000
+Origma solitaria,Rock-warbler,Aves,Passeriformes,Acanthizidae,B10K-DU-029-52,VZRL00000000
+Climacteris rufus,Rufous Treecreeper,Aves,Passeriformes,Climacteridae,B10K-DU-029-53,VZRZ00000000
+Rhynochetos jubatus,Kagu,Aves,Eurypygiformes,Rhynochetidae,B10K-DU-029-58,VZRY00000000
+Atrichornis clamosus,Noisy Scrubbird,Aves,Passeriformes,Atrichornithidae,B10K-DU-029-61,WBMZ00000000
+Horornis vulcanius,Sunda Bush Warbler,Aves,Passeriformes,Scotocercidae,B10K-DU-029-69,VZUA00000000
+Notiomystis cincta,Stitchbird,Aves,Passeriformes,Notiomystidae,B10K-DU-029-75,VZRX00000000
+Aegotheles bennettii,Barred Owlet-nightjar,Aves,Caprimulgiformes,Aegothelidae,B10K-DU-029-76,VZRW00000000
+Falcunculus frontatus,Eastern Shrike-tit,Aves,Passeriformes,Falcunculidae,B10K-DU-029-77,VZRV00000000
+Pedionomus torquatus,Plains-wanderer,Aves,Charadriiformes,Pedionomidae,B10K-DU-029-80,VZRU00000000
+Drymodes brunneopygia,Southern Scrub Robin,Aves,Passeriformes,Petroicidae,B10K-DU-030-03,VZTZ00000000
+Panurus biarmicus,Bearded Reedling,Aves,Passeriformes,Panuridae,B10K-DU-030-18,VZRT00000000
+Mohoua ochrocephala,Yellowhead,Aves,Passeriformes,Mohouidae,B10K-DU-030-22,VZTA00000000
+Ibidorhyncha struthersii,Ibisbill,Aves,Charadriiformes,Haematopodidae,B10K-DU-030-25,VZSZ00000000
+Sapayoa aenigma,Sapayoa,Aves,Passeriformes,Sapayoidae,B10K-DU-030-41,VZSY00000000
+Urocolius indicus,Red-faced Mousebird,Aves,Coliiformes,Coliidae,B10K-DU-030-59,WBNH00000000
+Elachura formosa,Elachura,Aves,Passeriformes,Timaliidae,B10K-Elachura-formosa,WBNG00000000
+Eudromia elegans,Elegant Crested Tinamou,Aves,Tinamiformes,Tinamidae,B10K-Eudromia-elegans,VZSX00000000
+Pteruthius melanotis,Black-eared Shrike-babbler,Aves,Passeriformes,Vireonidae,B10K-IZ-033-77,WEIY00000000
+Chloropsis hardwickii,Orange-bellied Leafbird,Aves,Passeriformes,Irenidae,B10K-IZ-033-78,WEIW00000000
+Pomatorhinus ruficollis,Streak-breasted Scimitar Babbler,Aves,Passeriformes,Timaliidae,B10K-IZ-033-81,VZSW00000000
+Nothocercus julius,Tawny-breasted Tinamou,Aves,Tinamiformes,Tinamidae,B10K-Nothocercus-julius,VZSV00000000
+Nothocercus nigrocapillus,Hooded Tinamou,Aves,Tinamiformes,Tinamidae,B10K-Nothocercus-nigrocapillus,WBNA00000000
+Nothoprocta ornata,Ornate Tinamou,Aves,Tinamiformes,Tinamidae,B10K-Nothoprocta-ornata,VZSH00000000
+Nothoprocta pentlandii,Andean Tinamou,Aves,Tinamiformes,Tinamidae,B10K-Nothoprocta-pentlandii,VZSG00000000
+Chionis minor,Black-faced Sheathbill,Aves,Charadriiformes,Chionidae,B10K-UC-030-51,VZSF00000000
+Promerops cafer,Cape Sugarbird,Aves,Passeriformes,Promeropidae,B10K-UC-030-53,VZSE00000000
+Coturnix japonica,Japanese Quail,Aves,Galliformes,Phasianidae,NCBI-001,GCA_001577835.1
+Sturnus vulgaris,Common Starling,Aves,Passeriformes,Sturnidae,NCBI-002,GCA_001447265.1
+Zosterops lateralis melanops,Silver-eye,Aves,Passeriformes,Zosteropidae,NCBI-003,GCA_001281735.1
+Meleagris gallopavo,Wild Turkey,Aves,Galliformes,Phasianidae,NCBI-004,GCA_000146605.3
+Apteryx australis,Northern Brown Kiwi,Aves,Apterygiformes,Apterygidae,NCBI-005,GCA_001039765.2
+Falco cherrug,Saker Falcon,Aves,Falconiformes,Falconidae,NCBI-006,GCA_000337975.1
+Zonotrichia albicollis,White-throated Sparrow,Aves,Passeriformes,Emberizidae,NCBI-007,GCA_000385455.1
+Lepidothrix coronata,Blue-crowned Manakin,Aves,Passeriformes,Pipridae,NCBI-008,GCA_001604755.1
+Anser cygnoides,Swan Goose [Domestic],Aves,Anseriformes,Anatidae,NCBI-009,GCA_000971095.1
+Setophaga coronata,Yellow-rumped Warbler,Aves,Passeriformes,Parulidae,NCBI-010,GCA_001746935.1
+Gallus gallus,Chicken (Red Junglefowl),Aves,Galliformes,Phasianidae,NCBI-011,GCA_000002315.2
+Taeniopygia guttata,Zebra Finch,Aves,Passeriformes,Estrildidae,NCBI-013,GCA_000151805.2
+Aquila chrysaetos canadensis,Golden Eagle,Aves,Accipitriformes,Accipitridae,NCBI-014,GCA_000766835.1
+Calidris pugnax,Ruff,Aves,Charadriiformes,Scolopacidae,NCBI-015,GCA_001431845.1
+Tympanuchus cupido,Greater Prairie Chicken,Aves,Galliformes,Phasianidae,NCBI-016,GCA_001870855.1
+Pseudopodoces humilis,Groundpecker,Aves,Passeriformes,Paridae,NCBI-017,GCA_000331425.1
+Serinus canaria,Atlantic Canary,Aves,Passeriformes,Fringillidae,NCBI-018,GCA_000534875.1
+Patagioenas fasciata,Band-tailed Pigeon,Aves,Columbiformes,Columbidae,NCBI-019,GCA_002029285.1
+Corvus cornix cornix,Carrion Crow,Aves,Passeriformes,Corvidae,NCBI-020,GCA_000738735.2
+Passer domesticus,House Sparrow,Aves,Passeriformes,Passeridae,NCBI-021,GCA_001700915.1
+Parus major,Great Tit,Aves,Passeriformes,Paridae,NCBI-022,GCA_001522545.2
+Colinus virginianus,Northern Bobwhite,Aves,Galliformes,Odontophoridae,NCBI-024,GCA_000599465.2
+Callipepla squamata,Scaled Quail,Aves,Galliformes,Odontophoridae,NCBI-025,GCA_002218305.1
+Sporophila hypoxantha,Tawny-bellied Seedeater,Aves,Passeriformes,Thraupidae,NCBI-026,GCA_002167245.1
+Urile pelagicus,Pelagic Cormorant,Aves,Pelecaniformes,Phalacrocoracidae,NCBI-027,GCA_002173435.1
+Nannopterum auritus,Double-crested Cormorant,Aves,Pelecaniformes,Phalacrocoracidae,NCBI-028,GCA_002173455.1
+Nannopterum harrisi,Flightless Cormorant,Aves,Pelecaniformes,Phalacrocoracidae,NCBI-029,GCA_002173475.1
+Nannopterum brasilianus,Neotropic Cormorant,Aves,Pelecaniformes,Phalacrocoracidae,NCBI-030,GCA_002174335.1
+Lonchura striata,White-rumped Munia,Aves,Passeriformes,Estrildidae,NCBI-031,GCA_002197715.1
+Anas zonorhyncha,Chinese Spot-billed Duck,Aves,Anseriformes,Anatidae,NCBI-032,GCA_002224875.1
+Phylloscopus trochilus,Willow Warbler,Aves,Passeriformes,Phylloscopidae,NCBI-033,GCA_002305835.1
+Saxicola maurus,Eastern Stonechat,Aves,Passeriformes,Muscicapidae,NCBI-034,PRJEB19452(ENA Accession)
+Uria lomvia,Brunnich's Guillemot,Aves,Charadriiformes,Alcidae,NCBI-035,GCA_002289315.1
+Strix occidentalis caurina,Spotted Owl,Aves,Strigiformes,Strigidae,NCBI-036,GCA_002372975.1
+Anas platyrhynchos,Peking Duck,Aves,Anseriformes,Anatidae,NCBI-037,GCA_000355885.1
+Agapornis roseicollis,Rosy-faced Lovebird,Aves,Psittaciformes,Psittaculidae,OUT-0001,GCA_002631895.1
+Oreotrochilus melanogaster,Black-breasted Hillstar,Aves,Caprimulgiformes,Trochilidae,OUT-0002,VZUB00000000
+Alca torda,Razorbill,Aves,Charadriiformes,Alcidae,OUT-0003,VZSD00000000
+Steatornis caripensis,Oilbird,Aves,Caprimulgiformes,Steatornithidae,OUT-0004,VZSC00000000
+Caloenas nicobarica,Nicobar Pigeon,Aves,Columbiformes,Columbidae,OUT-0007,VZSB00000000
+Melospiza melodia,Song Sparrow,Aves,Passeriformes,Emberizidae,OUT-0008,VZSA00000000
+Rhegmatorhina hoffmannsi,White-breasted Antbird,Aves,Passeriformes,Thamnophilidae,OUT-0010,VZSN00000000
+Loxia curvirostra,Red Crossbill,Aves,Passeriformes,Fringillidae,OUT-0011,VZSM00000000
+Junco hyemalis,Dark-eyed Junco,Aves,Passeriformes,Emberizidae,OUT-0012,GCA_003829775.1
+Sylvia atricapilla,Eurasian Blackcap,Aves,Passeriformes,Sylviidae,OUT-0013,VZSL00000000
+Erithacus rubecula,European Robin,Aves,Passeriformes,Muscicapidae,OUT-0015,VZSK00000000
+Limosa lapponica,Bar-tailed Godwit,Aves,Charadriiformes,Scolopacidae,OUT-0016,LXVZ00000000.1
+Passerina amoena,Lazuli Bunting,Aves,Passeriformes,Cardinalidae,OUT-0017,WBNP00000000
+Pheucticus melanocephalus,Black-headed Grosbeak,Aves,Passeriformes,Cardinalidae,OUT-0018,VZSJ00000000
+Uria aalge,Common Guillemot,Aves,Charadriiformes,Alcidae,OUT-0019,VZUE00000000
+Cepphus grylle,Black Guillemot,Aves,Charadriiformes,Alcidae,OUT-0020,VZUD00000000
+Rissa tridactyla,Black-legged Kittiwake,Aves,Charadriiformes,Laridae,OUT-0021,VZUC00000000
+Aphelocoma coerulescens,Florida Scrub Jay,Aves,Passeriformes,Corvidae,OUT-0022,VZSI00000000
+Poecile atricapillus,Black-capped Chickadee,Aves,Passeriformes,Paridae,OUT-0023,VZSS00000000
+Cercotrichas coryphaeus,Karoo Scrub Robin,Aves,Passeriformes,Muscicapidae,OUT-0024,WBND00000000
+Calonectris borealis,Cory's Shearwater,Aves,Procellariiformes,Procellariidae,OUT-0025,VZUG00000000
+Apteryx haastii,Great Spotted Kiwi,Aves,Apterygiformes,Apterygidae,OUT-0026,PTFD00000000.1
+Apteryx owenii,Little Spotted Kiwi,Aves,Apterygiformes,Apterygidae,OUT-0027,PTFC00000000.1
+Apteryx rowi,Okarito Brown Kiwi,Aves,Apterygiformes,Apterygidae,OUT-0028,PTFB00000000.1
+Crypturellus cinnamomeus,Thicket Tinamou,Aves,Tinamiformes,Tinamidae,OUT-0029,PTEZ00000000.1
+Nothoprocta perdicaria,Chilean Tinamou,Aves,Tinamiformes,Tinamidae,OUT-0030,PTEW00000000.1
+Rhea americana,Greater Rhea,Aves,Rheiformes,Rheidae,OUT-0031,PTEV00000000.1
+Rhea pennata,Lesser Rhea,Aves,Rheiformes,Rheidae,OUT-0032,PTJI00000000.1
+Chlorodrepanis virens,Hawaii Amakihi,Aves,Passeriformes,Fringillidae,OUT-0034,GCA_003286495.1
+Hemignathus wilsoni,Akiapola'au,Aves,Passeriformes,Fringillidae,OUT-0035,SGIP00000000
+Cairina moschata,Muscovy Duck,Aves,Anseriformes,Anatidae,OUT-0036,QZEJ00000000
+Brachypodius atriceps,Black-headed Bulbul,Aves,Passeriformes,Pycnonotidae,OUT-0037,VZSR00000000
+Certhia familiaris,Eurasian Treecreeper,Aves,Passeriformes,Certhiidae,OUT-0039,WBNC00000000
+Haliaeetus albicilla,White-tailed Sea Eagle,Aves,Accipitriformes,Accipitridae,OUT-0040,VZSQ00000000
+Phasianus colchicus,Common Pheasant,Aves,Galliformes,Phasianidae,OUT-0045,GCA_004143745.1
+Charadrius alexandrinus,Kentish Plover,Aves,Charadriiformes,Charadriidae,OUT-0046,
+Manacus manacus,Bearded Manakin,Aves,Passeriformes,Pipridae,OUT-0047,GCA_001715985.2
+Vidua chalybeata,Village Indigobird,Aves,Passeriformes,Viduidae,OUT-0048,WBNB00000000
+Molothrus ater,Brown-headed Cowbird,Aves,Passeriformes,Icteridae,OUT-0049,VZUF00000000
+Agelaius phoeniceus,Red-winged Blackbird,Aves,Passeriformes,Icteridae,OUT-0050,VZSP00000000
+Asarcornis scutulata,White-winged Duck,Aves,Anseriformes,Anatidae,OUT-0051,VZSO00000000
+Nesospiza acunhae,Inaccessible Island finch,Aves,Passeriformes,Thraupidae,OUT-0053,VZSU00000000
+Acrocephalus arundinaceus,Great Reed Warbler,Aves,Passeriformes,Acrocephalidae,OUT-0054,VZST00000000
+Atlantisia rogersi,Inaccessible Island Rail,Aves,Gruiformes,Rallidae,OUT-0055,VZUJ00000000
+Cettia cetti,Cetti's Warbler,Aves,Passeriformes,Scotocercidae,OUT-0056,VZUI00000000
+Xiphorhynchus elegans,Elegant Woodcreeper,Aves,Passeriformes,Furnariidae,OUT-0059,VZUH00000000
+Corvus moneduloides,New Caledonian Crow,Aves,Passeriformes,Corvidae,OUT-0060,WBNF00000000
+Copsychus sechellarum,Seychelles Magpie Robin,Aves,Passeriformes,Muscicapidae,OUT-0061,WBNE00000000
+Numida meleagris,Helmeted Guineafowl,Aves,Galliformes,Numididae,OUT-0062,MTSP00000000.1
+Bos_taurus,cattle,Mammalia,Artiodactyla,Bovidae,Bos_taurus,GCF_002263795.1
+Sus_scrofa,Wild boar,Mammalia,Artiodactyla,Suidae,Sus_scrofa,GCF_000003025.6
+Canis_familiaris,Dog,Mammalia,Carnivora,Canidae,Canis_familiaris,GCF_014441545.1
+Myotis_davidii,David's myotis,Mammalia,Chiroptera,Vespertilionidae,Myotis_davidii,GCF_000327345.1
+Pteropus_alecto,Black flying fox,Mammalia,Chiroptera,Pteropodidae,Pteropus_alecto,GCF_000325575.1
+Monodelphis_domestica,Gray short-tailed opossum,Mammalia,Didelphimorphia,Didelphidae,Monodelphis_domestica,GCF_000002295.2
+Oryctolagus_cuniculus,European rabbit,Mammalia,Lagomorpha,Leporidae,Oryctolagus_cuniculus,GCF_000003625.3
+Equus_caballus,Horse,Mammalia,Perissodactyla,Equidae,Equus_caballus,GCF_002863925.1
+Homo_sapiens,Human,Mammalia,Primates,Hominidae,Homo_sapiens,GCF_000001405.39
+Macaca_mulatta,Rhesus macaque,Mammalia,Primates,Cercopithecidae,Macaca_mulatta,GCF_003339765.1
+Pan_troglodytes,Chimpanzee,Mammalia,Primates,Hominidae,Pan_troglodytes,GCF_002880755.1
+Pongo_abelii,Sumatran orangutan,Mammalia,Primates,Hominidae,Pongo_abelii,GCF_002880775.1
+Loxodonta_africana,African bush elephant,Mammalia,Proboscidea,Elephantidae,Loxodonta_africana,GCF_000001905.1
+Cavia_porcellus,Guinea pig,Mammalia,Rodentia,Caviidae,Cavia_porcellus,GCF_000151735.1
+Cricetulus_griseus,Chinese hamster,Mammalia,Rodentia,Cricetidae,Cricetulus_griseus,GCF_000223135.1
+Dipodomys_ordii,Ord's kangaroo rat,Mammalia,Rodentia,Heteromyidae,Dipodomys_ordii,GCF_000151885.1
+Heterocephalus_glaber,Naked mole-rat,Mammalia,Rodentia,Heterocephalidae,Heterocephalus_glaber,GCF_000247695.1
+Ictidomys_tridecemlineatus,Thirteen-lined ground squirrel,Mammalia,Rodentia,Sciuridae,Ictidomys_tridecemlineatus,GCF_016881025.1
+Mus_musculus,House mouse,Mammalia,Rodentia,Muridae,Mus_musculus,GCF_000001635.27
+Rattus_norvegicus,Brown rat,Mammalia,Rodentia,Muridae,Rattus_norvegicus,GCF_015227675.2
+Alligator_mississippiensis,American alligator,Reptilia,Crocodilia,Alligatoridae,Alligator_mississippiensis,GCF_000281125.3
+Alligator_sinensis,Chinese alligator,Reptilia,Crocodilia,Alligatoridae,Alligator_sinensis,GCF_000455745.1
+Gavialis_gangeticus,Gharial,Reptilia,Crocodilia,Gavialidae,Gavialis_gangeticus,GCF_001723915.1
+Sphenodon_punctatus,Tuatara,Reptilia,Rhynchocephalia,Sphenodontidae,Sphenodon_punctatus,GCA_003113815.1
+Anolis_carolinensis,Green anole,Reptilia,Squamata,Dactyloidae,Anolis_carolinensis,GCF_000090745.1
+Crotalus_tigris,Tiger rattlesnake,Reptilia,Squamata,Viperidae,Crotalus_tigris,GCF_016545835.1
+Gekko_japonicus,Schlegel's Japanese gecko,Reptilia,Squamata,Gekkonidae,Gekko_japonicus,GCF_001447785.1
+Lacerta_agilis,Sand lizard,Reptilia,Squamata,Lacertidae,Lacerta_agilis,GCF_009819535.1
+Myanophis_thanlyinensis,Mud snake,Reptilia,Squamata,Homalopsidae,Myanophis_thanlyinensis,GCA_017656035.1
+Pogona_vitticeps,Central bearded dragon,Reptilia,Squamata,Agamidae,Pogona_vitticeps,GCF_900067755.1
+Pseudonaja_textilis,Eastern brown snake,Reptilia,Squamata,Elapidae,Pseudonaja_textilis,GCF_900518735.1
+Python_bivittatus,Burmese python,Reptilia,Squamata,Pythonidae,Python_bivittatus,GCF_000186305.1
+Sceloporus_undulatus,Eastern fence lizard,Reptilia,Squamata,Phrynosomatidae,Sceloporus_undulatus,GCF_019175285.1
+Thamnophis_sirtalis,Common Garter Snake,Reptilia,Squamata,Colubridae,Thamnophis_sirtalis,GCF_001077635.1
+Zootoca_vivipara,Viviparous lizard,Reptilia,Squamata,Lacertidae,Zootoca_vivipara,GCF_011800845.1
+Chelonia_mydas,Green sea turtle,Reptilia,Testudines,Cheloniidae,Chelonia_mydas,GCF_015237465.1
+Chelydra_serpentina,Common snapping turtle,Reptilia,Testudines,Chelydridae,Chelydra_serpentina,GCA_018859375.1
+Dermochelys_coriacea,Leatherback sea turtle,Reptilia,Testudines,Dermatemydidae,Dermochelys_coriacea,GCF_009764565.3
+Gopherus_evgoodei,Goode's thornscrub tortoise,Reptilia,Testudines,Testudinidae,Gopherus_evgoodei,GCF_007399415.2
+Mauremys_reevesii,Chinese pond turtle,Reptilia,Testudines,Geoemydidae,Mauremys_reevesii,GCF_016161935.1
+Pelodiscus_sinensis,Chinese softshell turtle,Reptilia,Testudines,Trionychidae,Pelodiscus_sinensis,GCF_000230535.1
+Platysternon_megacephalum,Big-headed turtle,Reptilia,Testudines,Platysternidae,Platysternon_megacephalum,GCA_003942145.1
+Trachemys_scripta,Pond slider,Reptilia,Testudines,Emydidae,Trachemys_scripta,GCF_013100865.1
