@@ -1,0 +1,15 @@
+data="data_path"
+
+bedtools="/software/miniconda3/bin/bedtools"
+cdhit="/software/miniconda3/bin/cd-hit"
+blastn="/software/miniconda3/bin/blastn"
+parallel="/software/miniconda3/bin/parallel"
+perl="/software/miniconda3/bin/perl"
+formatdb="/software/miniconda3/bin/formatdb"
+
+fastaDeal="/bin_path/fastaDeal.pl"
+cluster="/bin_path/Best.bed.cluster.pl"
+fishInWinter="/bin_path/fishInWinter.pl"
+blast2best="/bin_path/blast2best.sh"
+mafftIdentity="/bin_path/mafft_identity.pl"
+markLTR="/bin_path/mark.ltr.pl"
