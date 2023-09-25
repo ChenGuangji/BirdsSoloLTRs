@@ -1,0 +1,407 @@
+ID	clade	Order	Family	Tree.name	Order.spes	Latin.name
+APP-001	Aves	Charadriiformes	Charadriidae	CHAVOC	Charadriiformes	Charadrius vociferus
+APP-002	Aves	Passeriformes	Acanthisittidae	ACACHL	Passeriformes	Acanthisitta chloris
+APP-004	Aves	Trogoniformes	Trogonidae	APAVIT	Trogoniformes	Apaloderma vittatum
+APP-005	Aves	Sphenisciformes	Spheniscidae	APTFOR	Sphenisciformes	Aptenodytes forsteri
+APP-006	Aves	Gruiformes	Gruidae	BALREG	Gruiformes	Balearica regulorum
+APP-007	Aves	Bucerotiformes	Bucerotidae	BUCRHI	Bucerotiformes	Buceros rhinoceros
+APP-008	Aves	Caprimulgiformes	Trochilidae	CALANN	Caprimulgiformes	Calypte anna
+APP-009	Aves	Caprimulgiformes	Caprimulgidae	ANTCAR	Caprimulgiformes	Antrostomus carolinensis
+APP-010	Aves	Cariamiformes	Cariamidae	CARCRI	Cariamiformes	Cariama cristata
+APP-011	Aves	Accipitriformes	Cathartidae	CATAUR	Accipitriformes	Cathartes aura
+APP-012	Aves	Caprimulgiformes	Apodidae	CHAPEL	Caprimulgiformes	Chaetura pelagica
+APP-013	Aves	Otidiformes	Otididae	CHLMAC	Otidiformes	Chlamydotis macqueenii
+APP-014	Aves	Coliiformes	Coliidae	COLSTR	Coliiformes	Colius striatus
+APP-015	Aves	Columbiformes	Columbidae	COLLIV	Columbiformes	Columba livia
+APP-016	Aves	Passeriformes	Corvidae	CORBRA	Passeriformes	Corvus brachyrhynchos
+APP-017	Aves	Cuculiformes	Cuculidae	CUCCAN	Cuculiformes	Cuculus canorus
+APP-018	Aves	Pelecaniformes	Ardeidae	EGRGAR	Pelecaniformes	Egretta garzetta
+APP-019	Aves	Eurypygiformes	Eurypygidae	EURHEL	Eurypygiformes	Eurypyga helias
+APP-020	Aves	Falconiformes	Falconidae	FALPER	Falconiformes	Falco peregrinus
+APP-021	Aves	Procellariiformes	Procellariidae	FULGLA	Procellariiformes	Fulmarus glacialis
+APP-022	Aves	Gaviiformes	Gaviidae	GAVSTE	Gaviiformes	Gavia stellata
+APP-023	Aves	Passeriformes	Thraupidae	GEOFOR	Passeriformes	Geospiza fortis
+APP-025	Aves	Accipitriformes	Accipitridae	HALLEU	Accipitriformes	Haliaeetus leucocephalus
+APP-026	Aves	Leptosomatiformes	Leptosomidae	LEPDIS	Leptosomatiformes	Leptosomus discolor
+APP-028	Aves	Psittaciformes	Psittaculidae	MELUND	Psittaciformes	Melopsittacus undulatus
+APP-029	Aves	Coraciiformes	Meropidae	MERNUB	Coraciiformes	Merops nubicus
+APP-030	Aves	Mesitornithiformes	Mesitornithidae	MESUNI	Mesitornithiformes	Mesitornis unicolor
+APP-031	Aves	Psittaciformes	Strigopidae	NESNOT	Psittaciformes	Nestor notabilis
+APP-032	Aves	Pelecaniformes	Threskiornithidae	NIPNIP	Pelecaniformes	Nipponia nippon
+APP-033	Aves	Opisthocomiformes	Opisthocomidae	OPIHOA	Opisthocomiformes	Opisthocomus hoazin
+APP-034	Aves	Pelecaniformes	Pelecanidae	PELCRI	Pelecaniformes	Pelecanus crispus
+APP-035	Aves	Phaethontiformes	Phaethontidae	PHALEP	Phaethontiformes	Phaethon lepturus
+APP-036	Aves	Pelecaniformes	Phalacrocoracidae	PHACAR	Pelecaniformes	Phalacrocorax carbo
+APP-037	Aves	Phoenicopteriformes	Phoenicopteridae	PHORUB	Phoenicopteriformes	Phoenicopterus ruber
+APP-038	Aves	Piciformes	Picidae	PICPUB	Piciformes	Picoides pubescens
+APP-039	Aves	Podicipiformes	Podicipedidae	PODCRI	Podicipiformes	Podiceps cristatus
+APP-040	Aves	Pterocliformes	Pteroclidae	PTEGUT	Pterocliformes	Pterocles gutturalis
+APP-041	Aves	Sphenisciformes	Spheniscidae	PYGADE	Sphenisciformes	Pygoscelis adeliae
+APP-042	Aves	Struthioniformes	Struthionidae	STRCAM	Struthioniformes	Struthio camelus
+APP-043	Aves	Musophagiformes	Musophagidae	TAUERY	Musophagiformes	Tauraco erythrolophus
+APP-044	Aves	Tinamiformes	Tinamidae	TINGUT	Tinamiformes	Tinamus guttatus
+APP-045	Aves	Strigiformes	Tytonidae	TYTALB	Strigiformes	Tyto alba
+B10K-Callaeas-wilsoni	Aves	Passeriformes	Callaeidae	CALWIL	Passeriformes	Callaeas wilsoni
+B10K-Casuarius-casuarius	Aves	Casuariiformes	Casuariidae	CASCAS	Casuariiformes	Casuarius casuarius
+B10K-Crypturellus-soui	Aves	Tinamiformes	Tinamidae	CRYSOU	Tinamiformes	Crypturellus soui
+B10K-Crypturellus-undulatus	Aves	Tinamiformes	Tinamidae	CRYUND	Tinamiformes	Crypturellus undulatus
+B10K-CU-030-46	Aves	Passeriformes	Menuridae	MENNOV	Passeriformes	Menura novaehollandiae
+B10K-CU-031-01	Aves	Otidiformes	Otididae	ARDKOR	Otidiformes	Ardeotis kori
+B10K-CU-031-02	Aves	Cuculiformes	Cuculidae	CEUAER	Cuculiformes	Ceuthmochares aereus
+B10K-CU-031-03	Aves	Pelecaniformes	Ardeidae	COCCOC	Pelecaniformes	Cochlearius cochlearius
+B10K-CU-031-07	Aves	Cuculiformes	Cuculidae	GEOCAL	Cuculiformes	Geococcyx californianus
+B10K-CU-031-08	Aves	Charadriiformes	Glareolidae	GLAPRA	Charadriiformes	Glareola pratincola
+B10K-CU-031-10	Aves	Caprimulgiformes	Nyctibiidae	NYCBRA	Caprimulgiformes	Nyctibius bracteatus
+B10K-CU-031-11	Aves	Procellariiformes	Oceanitidae	OCEOCE	Procellariiformes	Oceanites oceanicus
+B10K-CU-031-12	Aves	Passeriformes	Rhodinocichlidae	RHOROS	Passeriformes	Rhodinocichla rosea
+B10K-CU-031-13	Aves	Passeriformes	Tachurididae	TACRUB	Passeriformes	Tachuris rubrigastra
+B10K-CU-031-17	Aves	Passeriformes	Cinclosomatidae	PTILEU	Passeriformes	Ptilorrhoa leucosticta
+B10K-CU-031-19	Aves	Passeriformes	Rhipiduridae	CHAPAP	Passeriformes	Chaetorhynchus papuensis
+B10K-CU-031-20	Aves	Passeriformes	Calyptomenidae	SMICAP	Passeriformes	Smithornis capensis
+B10K-CU-031-22	Aves	Cariamiformes	Cariamidae	CHUBUR	Cariamiformes	Chunga burmeisteri
+B10K-CU-031-23	Aves	Otidiformes	Otididae	LOPRUF	Otidiformes	Lophotis ruficrista
+B10K-CU-031-38	Aves	Pelecaniformes	Anhingidae	ANHANH	Pelecaniformes	Anhinga anhinga
+B10K-CU-031-40	Aves	Musophagiformes	Musophagidae	CORCRI	Musophagiformes	Corythaeola cristata
+B10K-Dromaius-novaehollandiae	Aves	Casuariiformes	Casuariidae	DRONOV	Casuariiformes	Dromaius novaehollandiae
+B10K-DU-001-01	Aves	Passeriformes	Cotingidae	CEPORN	Passeriformes	Cephalopterus ornatus
+B10K-DU-001-02	Aves	Passeriformes	Grallariidae	GRAVAR	Passeriformes	Grallaria varia
+B10K-DU-001-03	Aves	Passeriformes	Scleruridae	SCLMEX	Passeriformes	Sclerurus mexicanus
+B10K-DU-001-04	Aves	Piciformes	Ramphastidae	EUBBOU	Piciformes	Eubucco bourcierii
+B10K-DU-001-06	Aves	Passeriformes	Thamnophilidae	SAKLUC	Passeriformes	Sakesphorus luctuosus
+B10K-DU-001-07	Aves	Strigiformes	Strigidae	CICNIG	Strigiformes	Ciccaba nigrolineata
+B10K-DU-001-08	Aves	Galliformes	Cracidae	PENPIL	Galliformes	Penelope pileata
+B10K-DU-001-09	Aves	Passeriformes	Dendrocolaptidae	CAMPRO	Passeriformes	Campylorhamphus procurvoides
+B10K-DU-001-15	Aves	Passeriformes	Alaudidae	ALACHE	Passeriformes	Alaudala cheleensis
+B10K-DU-001-16	Aves	Piciformes	Bucconidae	BUCCAP	Piciformes	Bucco capensis
+B10K-DU-001-17	Aves	Passeriformes	Turdidae	CATFUS	Passeriformes	Catharus fuscescens
+B10K-DU-001-18	Aves	Passeriformes	Regulidae	REGSAT	Passeriformes	Regulus satrapa
+B10K-DU-001-19	Aves	Passeriformes	Fringillidae	LOXLEU	Passeriformes	Loxia leucoptera
+B10K-DU-001-20	Aves	Charadriiformes	Stercorariidae	STEPAR	Charadriiformes	Stercorarius parasiticus
+B10K-DU-001-21	Aves	Coraciiformes	Momotidae	BARMAR	Coraciiformes	Baryphthengus martii
+B10K-DU-001-22	Aves	Passeriformes	Vireonidae	VIRALT	Passeriformes	Vireo altiloquus
+B10K-DU-001-23	Aves	Caprimulgiformes	Apodidae	HEMCOM	Caprimulgiformes	Hemiprocne comata
+B10K-DU-001-24	Aves	Piciformes	Ramphastidae	PSIHAE	Piciformes	Psilopogon haemacephalus
+B10K-DU-001-25	Aves	Passeriformes	Campephagidae	EDOCOE	Passeriformes	Edolisoma coerulescens
+B10K-DU-001-26	Aves	Passeriformes	Irenidae	IRECYA	Passeriformes	Irena cyanogastra
+B10K-DU-001-27	Aves	Passeriformes	Zosteropidae	STEDEN	Passeriformes	Sterrhoptilus dennistouni
+B10K-DU-001-28	Aves	Passeriformes	Pachycephalidae	PACPHI	Passeriformes	Pachycephala philippinensis
+B10K-DU-001-29	Aves	Passeriformes	Sturnidae	RHAINO	Passeriformes	Rhabdornis inornatus
+B10K-DU-001-30	Aves	Piciformes	Ramphastidae	RAMSUL	Piciformes	Ramphastos sulfuratus
+B10K-DU-001-31	Aves	Passeriformes	Icteridae	QUIMEX	Passeriformes	Quiscalus mexicanus
+B10K-DU-001-32	Aves	Procellariiformes	Hydrobatidae	HYDTET	Procellariiformes	Hydrobates tethys
+B10K-DU-001-33	Aves	Passeriformes	Monarchidae	MYIHEB	Passeriformes	Myiagra hebetior
+B10K-DU-001-34	Aves	Passeriformes	Dicaeidae	DICEXI	Passeriformes	Dicaeum eximium
+B10K-DU-001-35	Aves	Passeriformes	Nectariniidae	LEPASP	Passeriformes	Leptocoma aspasia
+B10K-DU-001-36	Aves	Passeriformes	Zosteropidae	ZOSHYP	Passeriformes	Zosterops hypoxanthus
+B10K-DU-001-37	Aves	Passeriformes	Tyrannidae	TYRSAV	Passeriformes	Tyrannus savana
+B10K-DU-001-39	Aves	Galliformes	Megapodiidae	ALELAT	Galliformes	Alectura lathami
+B10K-DU-001-40	Aves	Caprimulgiformes	Podargidae	PODSTR	Caprimulgiformes	Podargus strigoides
+B10K-DU-001-42	Aves	Piciformes	Ramphastidae	SEMFRA	Piciformes	Semnornis frantzii
+B10K-DU-001-43	Aves	Passeriformes	Formicariidae	FORRUF	Passeriformes	Formicarius rufipectus
+B10K-DU-001-44	Aves	Pelecaniformes	Threskiornithidae	MESCAY	Pelecaniformes	Mesembrinibis cayennensis
+B10K-DU-001-45	Aves	Passeriformes	Parulidae	SETKIR	Passeriformes	Setophaga kirtlandii
+B10K-DU-001-46	Aves	Psittaciformes	Psittacidae	AMAGUI	Psittaciformes	Amazona guildingii
+B10K-DU-001-47	Aves	Pelecaniformes	Ciconiidae	CICMAG	Pelecaniformes	Ciconia maguari
+B10K-DU-001-48	Aves	Passeriformes	Dicruridae	DICMEG	Passeriformes	Dicrurus megarhynchus
+B10K-DU-001-49	Aves	Passeriformes	Rhipiduridae	RHIDAH	Passeriformes	Rhipidura dahli
+B10K-DU-001-53	Aves	Galliformes	Odontophoridae	ODOGUJ	Galliformes	Odontophorus gujanensis
+B10K-DU-001-55	Aves	Gruiformes	Heliornithidae	HELFUL	Gruiformes	Heliornis fulica
+B10K-DU-001-56	Aves	Caprimulgiformes	Nyctibiidae	NYCGRA	Caprimulgiformes	Nyctibius grandis
+B10K-DU-001-57	Aves	Anseriformes	Anseranatidae	ANSSEM	Anseriformes	Anseranas semipalmata
+B10K-DU-001-60	Aves	Gruiformes	Psophiidae	PSOCRE	Gruiformes	Psophia crepitans
+B10K-DU-001-61	Aves	Coraciiformes	Alcedinidae	CHLAEN	Coraciiformes	Chloroceryle aenea
+B10K-DU-001-62	Aves	Piciformes	Galbulidae	GALDEA	Piciformes	Galbula dea
+B10K-DU-001-63	Aves	Passeriformes	Donacobiidae	DONATR	Passeriformes	Donacobius atricapilla
+B10K-DU-001-64	Aves	Charadriiformes	Burhinidae	BURBIS	Charadriiformes	Burhinus bistriatus
+B10K-DU-001-65	Aves	Passeriformes	Laniidae	LANLUD	Passeriformes	Lanius ludovicianus
+B10K-DU-001-66	Aves	Passeriformes	Polioptilidae	POLCAE	Passeriformes	Polioptila caerulea
+B10K-DU-001-67	Aves	Passeriformes	Hirundinidae	HIRRUS	Passeriformes	Hirundo rustica
+B10K-DU-001-68	Aves	Passeriformes	Troglodytidae	THRLUD	Passeriformes	Thryothorus ludovicianus
+B10K-DU-001-69	Aves	Passeriformes	Cardinalidae	CARCAR	Passeriformes	Cardinalis cardinalis
+B10K-DU-001-70	Aves	Passeriformes	Scotocercidae	HYLPRA	Passeriformes	Hylia prasina
+B10K-DU-001-71	Aves	Passeriformes	Platysteiridae	DYACAS	Passeriformes	Dyaphorophyia castanea
+B10K-DU-001-72	Aves	Passeriformes	Tityridae	PACMIN	Passeriformes	Pachyramphus minor
+B10K-DU-001-74	Aves	Passeriformes	Muscicapidae	OENOEN	Passeriformes	Oenanthe oenanthe
+B10K-DU-001-75	Aves	Passeriformes	Motacillidae	MOTALB	Passeriformes	Motacilla alba
+B10K-DU-001-77	Aves	Passeriformes	Cinclidae	CINMEX	Passeriformes	Cinclus mexicanus
+B10K-DU-001-78	Aves	Piciformes	Indicatoridae	INDMAC	Piciformes	Indicator maculatus
+B10K-DU-001-79	Aves	Passeriformes	Ploceidae	PLONIG	Passeriformes	Ploceus nigricollis
+B10K-DU-002-01	Aves	Passeriformes	Pellorneidae	ILLCLE	Passeriformes	Illadopsis cleaveri
+B10K-DU-002-02	Aves	Passeriformes	Sturnidae	LEUROT	Passeriformes	Leucopsar rothschildi
+B10K-DU-002-03	Aves	Passeriformes	Eurylaimidae	SERLUN	Passeriformes	Serilophus lunatus
+B10K-DU-002-05	Aves	Passeriformes	Artamidae	GYMTIB	Passeriformes	Gymnorhina tibicen
+B10K-DU-002-07	Aves	Passeriformes	Oxyruncidae	OXYCRI	Passeriformes	Oxyruncus cristatus
+B10K-DU-002-08	Aves	Passeriformes	Sylviidae	SINWEB	Passeriformes	Sinosuthora webbiana
+B10K-DU-002-09	Aves	Passeriformes	Locustellidae	LOCOCH	Passeriformes	Locustella ochotensis
+B10K-DU-002-10	Aves	Passeriformes	Aegithalidae	AEGCAU	Passeriformes	Aegithalos caudatus
+B10K-DU-002-11	Aves	Gruiformes	Aramidae	ARAGUA	Gruiformes	Aramus guarauna
+B10K-DU-002-13	Aves	Charadriiformes	Recurvirostridae	HIMHIM	Charadriiformes	Himantopus himantopus
+B10K-DU-002-14	Aves	Charadriiformes	Rostratulidae	NYCSEM	Charadriiformes	Nycticryphes semicollaris
+B10K-DU-002-15	Aves	Passeriformes	Mimidae	TOXRED	Passeriformes	Toxostoma redivivum
+B10K-DU-002-16	Aves	Charadriiformes	Laridae	RYNNIG	Charadriiformes	Rynchops niger
+B10K-DU-002-18	Aves	Passeriformes	Acrocephalidae	HIPICT	Passeriformes	Hippolais icterina
+B10K-DU-002-19	Aves	Passeriformes	Sylviidae	SYLBOR	Passeriformes	Sylvia borin
+B10K-DU-002-20	Aves	Passeriformes	Certhiidae	CERBRA	Passeriformes	Certhia brachydactyla
+B10K-DU-002-22	Aves	Passeriformes	Paradisaeidae	PARRAG	Passeriformes	Paradisaea raggiana
+B10K-DU-002-23	Aves	Passeriformes	Bombycillidae	BOMGAR	Passeriformes	Bombycilla garrulus
+B10K-DU-002-24	Aves	Passeriformes	Oriolidae	ORIORI	Passeriformes	Oriolus oriolus
+B10K-DU-002-25	Aves	Passeriformes	Sittidae	SITEUR	Passeriformes	Sitta europaea
+B10K-DU-002-26	Aves	Passeriformes	Phylloscopidae	RHASIB	Passeriformes	Rhadina sibilatrix
+B10K-DU-002-28	Aves	Charadriiformes	Laridae	LARSMI	Charadriiformes	Larus smithsonianus
+B10K-DU-002-30	Aves	Passeriformes	Cisticolidae	CISJUN	Passeriformes	Cisticola juncidis
+B10K-DU-002-32	Aves	Passeriformes	Ptiliogonatidae	PHANIT	Passeriformes	Phainopepla nitens
+B10K-DU-002-35	Aves	Bucerotiformes	Phoeniculidae	RHICYA	Bucerotiformes	Rhinopomastus cyanomelas
+B10K-DU-002-36	Aves	Charadriiformes	Glareolidae	RHIAFR	Charadriiformes	Rhinoptilus africanus
+B10K-DU-002-37	Aves	Piciformes	Ramphastidae	TRILEU	Piciformes	Tricholaema leucomelas
+B10K-DU-002-40	Aves	Passeriformes	Nicatoridae	NICCHL	Passeriformes	Nicator chloris
+B10K-DU-002-42	Aves	Passeriformes	Pycnonotidae	PYCJOC	Passeriformes	Pycnonotus jocosus
+B10K-DU-002-43	Aves	Passeriformes	Leiothrichidae	LEILUT	Passeriformes	Leiothrix lutea
+B10K-DU-002-46	Aves	Passeriformes	Rhinocryptidae	SCYSUP	Passeriformes	Scytalopus superciliaris
+B10K-DU-002-47	Aves	Charadriiformes	Thinocoridae	THIORB	Charadriiformes	Thinocorus orbignyianus
+B10K-DU-002-48	Aves	Pelecaniformes	Fregatidae	FREMAG	Pelecaniformes	Fregata magnificens
+B10K-DU-002-49	Aves	Pelecaniformes	Sulidae	SULDAC	Pelecaniformes	Sula dactylatra
+B10K-DU-002-50	Aves	Passeriformes	Viduidae	VIDMAC	Passeriformes	Vidua macroura
+B10K-DU-002-51	Aves	Coraciiformes	Coraciidae	EURGUL	Coraciiformes	Eurystomus gularis
+B10K-DU-002-52	Aves	Passeriformes	Peucedramidae	PEUTAE	Passeriformes	Peucedramus taeniatus
+B10K-DU-002-53	Aves	Passeriformes	Pittidae	PITSOR	Passeriformes	Pitta sordida
+B10K-DU-002-55	Aves	Passeriformes	Calyptomenidae	CALVIR	Passeriformes	Calyptomena viridis
+B10K-DU-002-56	Aves	Passeriformes	Malaconotidae	DRYGAM	Passeriformes	Dryoscopus gambensis
+B10K-DU-002-57	Aves	Passeriformes	Irenidae	CHLCYA	Passeriformes	Chloropsis cyanopogon
+B10K-DU-002-58	Aves	Passeriformes	Vireonidae	ERPZAN	Passeriformes	Erpornis zantholeuca
+B10K-DU-002-59	Aves	Charadriiformes	Jacanidae	JACJAC	Charadriiformes	Jacana jacana
+B10K-DU-002-60	Aves	Passeriformes	Scotocercidae	ERYMCC	Passeriformes	Erythrocercus mccallii
+B10K-DU-002-69	Aves	Coraciiformes	Todidae	TODMEX	Coraciiformes	Todus mexicanus
+B10K-DU-002-70	Aves	Pelecaniformes	Scopidae	SCOUMB	Pelecaniformes	Scopus umbretta
+B10K-DU-002-71	Aves	Passeriformes	Pomatostomidae	POSRUF	Passeriformes	Pomatostomus ruficeps
+B10K-DU-002-79	Aves	Passeriformes	Philepittidae	NEOCOR	Passeriformes	Neodrepanis coruscans
+B10K-DU-002-81	Aves	Passeriformes	Bernieridae	OXYMAD	Passeriformes	Oxylabes madagascariensis
+B10K-DU-002-82	Aves	Passeriformes	Vangidae	MYSCRO	Passeriformes	Mystacornis crossleyi
+B10K-DU-002-83	Aves	Passeriformes	Passeridae	HYPCIN	Passeriformes	Hypocryptadius cinnamomeus
+B10K-DU-003-06	Aves	Passeriformes	Furnariidae	FURFIG	Passeriformes	Furnarius figulus
+B10K-DU-003-16	Aves	Passeriformes	Pipromorphidae	MIOMAC	Passeriformes	Mionectes macconnelli
+B10K-DU-003-42	Aves	Pterocliformes	Pteroclidae	SYRPAR	Pterocliformes	Syrrhaptes paradoxus
+B10K-DU-003-44	Aves	Cuculiformes	Cuculidae	CROSUL	Cuculiformes	Crotophaga sulcirostris
+B10K-DU-004-15	Aves	Passeriformes	Platyrinchidae	NEOCIN	Passeriformes	Neopipo cinnamomea
+B10K-DU-005-01	Aves	Caprimulgiformes	Caprimulgidae	NYCLEU	Caprimulgiformes	Nyctiprogne leucopyga
+B10K-DU-005-73	Aves	Charadriiformes	Scolopacidae	AREINT	Charadriiformes	Arenaria interpres
+B10K-DU-005-78	Aves	Falconiformes	Falconidae	HERCAC	Falconiformes	Herpetotheres cachinnans
+B10K-DU-006-06	Aves	Columbiformes	Columbidae	ALOBEC	Columbiformes	Alopecoenas beccarii
+B10K-DU-006-09	Aves	Procellariiformes	Oceanitidae	FREGRA	Procellariiformes	Fregetta grallaria
+B10K-DU-006-20	Aves	Charadriiformes	Rostratulidae	ROSBEN	Charadriiformes	Rostratula benghalensis
+B10K-DU-007-02	Aves	Passeriformes	Pipritidae	PIPCHL	Passeriformes	Piprites chloris
+B10K-DU-007-40	Aves	Trogoniformes	Trogonidae	TROMEL	Trogoniformes	Trogon melanurus
+B10K-DU-007-42	Aves	Accipitriformes	Accipitridae	SPITYR	Accipitriformes	Spizaetus tyrannus
+B10K-DU-008-47	Aves	Cuculiformes	Cuculidae	PIACAY	Cuculiformes	Piaya cayana
+B10K-DU-008-62	Aves	Caprimulgiformes	Caprimulgidae	CHOACU	Caprimulgiformes	Chordeiles acutipennis
+B10K-DU-008-63	Aves	Strigiformes	Strigidae	GLABRA	Strigiformes	Glaucidium brasilianum
+B10K-DU-009-04	Aves	Podicipiformes	Podicipedidae	PODPOD	Podicipiformes	Podilymbus podiceps
+B10K-DU-009-16	Aves	Charadriiformes	Laridae	PHASIM	Charadriiformes	Phaetusa simplex
+B10K-DU-009-59	Aves	Passeriformes	Macrosphenidae	SYLVIR	Passeriformes	Sylvietta virens
+B10K-DU-010-60	Aves	Accipitriformes	Accipitridae	CIRPEC	Accipitriformes	Circaetus pectoralis
+B10K-DU-011-20	Aves	Musophagiformes	Musophagidae	CORCON	Musophagiformes	Corythaixoides concolor
+B10K-DU-011-36	Aves	Anseriformes	Anhimidae	CHATOR	Anseriformes	Chauna torquata
+B10K-DU-011-38	Aves	Accipitriformes	Sagittariidae	SAGSER	Accipitriformes	Sagittarius serpentarius
+B10K-DU-011-42	Aves	Passeriformes	Remizidae	ANTMIN	Passeriformes	Anthoscopus minutus
+B10K-DU-011-47	Aves	Gruiformes	Rallidae	ZAPATR	Gruiformes	Zapornia atra
+B10K-DU-012-02	Aves	Passeriformes	Buphagidae	BUPERY	Passeriformes	Buphagus erythrorhynchus
+B10K-DU-012-10	Aves	Passeriformes	Ptilonorhynchidae	PTIVIO	Passeriformes	Ptilonorhynchus violaceus
+B10K-DU-012-14	Aves	Charadriiformes	Chionidae	PLUSOC	Charadriiformes	Pluvianellus socialis
+B10K-DU-012-30	Aves	Passeriformes	Eupetidae	PICGYM	Passeriformes	Picathartes gymnocephalus
+B10K-DU-012-37	Aves	Bucerotiformes	Upupidae	UPUEPO	Bucerotiformes	Upupa epops
+B10K-DU-012-38	Aves	Passeriformes	Urocynchramidae	UROPYL	Passeriformes	Urocynchramus pylzowi
+B10K-DU-012-41	Aves	Passeriformes	Eupetidae	CHAFRE	Passeriformes	Chaetops frenatus
+B10K-DU-012-45	Aves	Procellariiformes	Procellariidae	PELURI	Procellariiformes	Pelecanoides urinatrix
+B10K-DU-012-46	Aves	Passeriformes	Prunellidae	PRUFUL	Passeriformes	Prunella fulvescens
+B10K-DU-012-47	Aves	Passeriformes	Sittidae	TICMUR	Passeriformes	Tichodroma muraria
+B10K-DU-012-52	Aves	Coraciiformes	Brachypteraciidae	BRALEP	Coraciiformes	Brachypteracias leptosomus
+B10K-DU-012-55	Aves	Charadriiformes	Dromadidae	DROARD	Charadriiformes	Dromas ardeola
+B10K-DU-012-56	Aves	Pelecaniformes	Balaenicipitidae	BALREX	Pelecaniformes	Balaeniceps rex
+B10K-DU-012-58	Aves	Accipitriformes	Pandionidae	PANHAL	Accipitriformes	Pandion haliaetus
+B10K-DU-012-65	Aves	Gruiformes	Gruidae	GRUAME	Gruiformes	Grus americana
+B10K-DU-012-80	Aves	Bucerotiformes	Bucerotidae	BUCABY	Bucerotiformes	Bucorvus abyssinicus
+B10K-DU-013-18	Aves	Passeriformes	Prunellidae	PRUHIM	Passeriformes	Prunella himalayana
+B10K-DU-013-51	Aves	Coraciiformes	Alcedinidae	CEYCYA	Coraciiformes	Ceyx cyanopectus
+B10K-DU-015-11	Aves	Passeriformes	Emberizidae	EMBFUC	Passeriformes	Emberiza fucata
+B10K-DU-015-28	Aves	Passeriformes	Plectrophenacidae	CALORN	Passeriformes	Calcarius ornatus
+B10K-DU-017-21	Aves	Cuculiformes	Cuculidae	CENBEN	Cuculiformes	Centropus bengalensis
+B10K-DU-017-25	Aves	Cuculiformes	Cuculidae	CENUNI	Cuculiformes	Centropus unirufus
+B10K-DU-017-47	Aves	Psittaciformes	Cacatuidae	PROATE	Psittaciformes	Probosciger aterrimus
+B10K-DU-021-26	Aves	Columbiformes	Columbidae	COLPIC	Columbiformes	Columbina picui
+B10K-DU-021-33	Aves	Charadriiformes	Laridae	CHRMAC	Charadriiformes	Chroicocephalus maculipennis
+B10K-DU-023-52	Aves	Passeriformes	Passerellidae	SPIPAS	Passeriformes	Spizella passerina
+B10K-DU-024-03	Aves	Coraciiformes	Alcedinidae	HALSEN	Coraciiformes	Halcyon senegalensis
+B10K-DU-025-06	Aves	Psittaciformes	Cacatuidae	EOLROS	Psittaciformes	Eolophus roseicapilla
+B10K-DU-027-49	Aves	Pterocliformes	Pteroclidae	PTEBUR	Pterocliformes	Pterocles burchelli
+B10K-DU-028-75	Aves	Passeriformes	Onychorhynchidae	ONYCOR	Passeriformes	Onychorhynchus coronatus
+B10K-DU-029-24	Aves	Procellariiformes	Diomedeidae	THACHL	Procellariiformes	Thalassarche chlororhynchos
+B10K-DU-029-28	Aves	Pelecaniformes	Anhingidae	ANHRUF	Pelecaniformes	Anhinga rufa
+B10K-DU-029-32	Aves	Passeriformes	Orthonychidae	ORTSPA	Passeriformes	Orthonyx spaldingii
+B10K-DU-029-33	Aves	Passeriformes	Corcoracidae	STRCIN	Passeriformes	Struthidea cinerea
+B10K-DU-029-36	Aves	Passeriformes	Oreoicidae	ALERUF	Passeriformes	Aleadryas rufinucha
+B10K-DU-029-37	Aves	Passeriformes	Melanocharitidae	MELVER	Passeriformes	Melanocharis versteri
+B10K-DU-029-38	Aves	Passeriformes	Cnemophilidae	CNELOR	Passeriformes	Cnemophilus loriae
+B10K-DU-029-39	Aves	Passeriformes	Eulacestomatidae	EULNIG	Passeriformes	Eulacestoma nigropectus
+B10K-DU-029-40	Aves	Passeriformes	Rhagologidae	RHALEU	Passeriformes	Rhagologus leucostigma
+B10K-DU-029-41	Aves	Passeriformes	Ifritidae	IFRKOW	Passeriformes	Ifrita kowaldi
+B10K-DU-029-42	Aves	Passeriformes	Paramythiidae	OREARF	Passeriformes	Oreocharis arfaki
+B10K-DU-029-43	Aves	Passeriformes	Machaerirhynchidae	MACNIG	Passeriformes	Machaerirhynchus nigripectus
+B10K-DU-029-44	Aves	Passeriformes	Maluridae	MALELE	Passeriformes	Malurus elegans
+B10K-DU-029-46	Aves	Charadriiformes	Turnicidae	TURVEL	Charadriiformes	Turnix velox
+B10K-DU-029-47	Aves	Passeriformes	Neosittidae	DAPCHR	Passeriformes	Daphoenositta chrysoptera
+B10K-DU-029-49	Aves	Passeriformes	Dasyornithidae	DASBRO	Passeriformes	Dasyornis broadbenti
+B10K-DU-029-50	Aves	Passeriformes	Meliphagidae	GRAPIC	Passeriformes	Grantiella picta
+B10K-DU-029-51	Aves	Passeriformes	Pardalotidae	PARPUN	Passeriformes	Pardalotus punctatus
+B10K-DU-029-52	Aves	Passeriformes	Acanthizidae	ORISOL	Passeriformes	Origma solitaria
+B10K-DU-029-53	Aves	Passeriformes	Climacteridae	CLIRUF	Passeriformes	Climacteris rufus
+B10K-DU-029-58	Aves	Eurypygiformes	Rhynochetidae	RHYJUB	Eurypygiformes	Rhynochetos jubatus
+B10K-DU-029-61	Aves	Passeriformes	Atrichornithidae	ATRCLA	Passeriformes	Atrichornis clamosus
+B10K-DU-029-69	Aves	Passeriformes	Scotocercidae	HORVUL	Passeriformes	Horornis vulcanius
+B10K-DU-029-75	Aves	Passeriformes	Notiomystidae	NOTCIN	Passeriformes	Notiomystis cincta
+B10K-DU-029-76	Aves	Caprimulgiformes	Aegothelidae	AEGBEN	Caprimulgiformes	Aegotheles bennettii
+B10K-DU-029-77	Aves	Passeriformes	Falcunculidae	FALFRO	Passeriformes	Falcunculus frontatus
+B10K-DU-029-80	Aves	Charadriiformes	Pedionomidae	PEDTOR	Charadriiformes	Pedionomus torquatus
+B10K-DU-030-03	Aves	Passeriformes	Petroicidae	DRYBRU	Passeriformes	Drymodes brunneopygia
+B10K-DU-030-18	Aves	Passeriformes	Panuridae	PANBIA	Passeriformes	Panurus biarmicus
+B10K-DU-030-22	Aves	Passeriformes	Mohouidae	MOHOCH	Passeriformes	Mohoua ochrocephala
+B10K-DU-030-25	Aves	Charadriiformes	Haematopodidae	IBISTR	Charadriiformes	Ibidorhyncha struthersii
+B10K-DU-030-41	Aves	Passeriformes	Sapayoidae	SAPAEN	Passeriformes	Sapayoa aenigma
+B10K-DU-030-59	Aves	Coliiformes	Coliidae	UROIND	Coliiformes	Urocolius indicus
+B10K-Elachura-formosa	Aves	Passeriformes	Timaliidae	ELAFOR	Passeriformes	Elachura formosa
+B10K-Eudromia-elegans	Aves	Tinamiformes	Tinamidae	EUDELE	Tinamiformes	Eudromia elegans
+B10K-IZ-033-77	Aves	Passeriformes	Vireonidae	PTEMEL	Passeriformes	Pteruthius melanotis
+B10K-IZ-033-78	Aves	Passeriformes	Irenidae	CHLHAR	Passeriformes	Chloropsis hardwickii
+B10K-IZ-033-81	Aves	Passeriformes	Timaliidae	PORRUF	Passeriformes	Pomatorhinus ruficollis
+B10K-Nothocercus-julius	Aves	Tinamiformes	Tinamidae	NOTJUL	Tinamiformes	Nothocercus julius
+B10K-Nothocercus-nigrocapillus	Aves	Tinamiformes	Tinamidae	NOTNIG	Tinamiformes	Nothocercus nigrocapillus
+B10K-Nothoprocta-ornata	Aves	Tinamiformes	Tinamidae	NOTORN	Tinamiformes	Nothoprocta ornata
+B10K-Nothoprocta-pentlandii	Aves	Tinamiformes	Tinamidae	NOTPEN	Tinamiformes	Nothoprocta pentlandii
+B10K-UC-030-51	Aves	Charadriiformes	Chionidae	CHIMIN	Charadriiformes	Chionis minor
+B10K-UC-030-53	Aves	Passeriformes	Promeropidae	PROCAF	Passeriformes	Promerops cafer
+NCBI-001	Aves	Galliformes	Phasianidae	COTJAP	Galliformes	Coturnix japonica
+NCBI-002	Aves	Passeriformes	Sturnidae	STUVUL	Passeriformes	Sturnus vulgaris
+NCBI-003	Aves	Passeriformes	Zosteropidae	ZOSLAT	Passeriformes	Zosterops lateralis melanops
+NCBI-004	Aves	Galliformes	Phasianidae	MELGAL	Galliformes	Meleagris gallopavo
+NCBI-005	Aves	Apterygiformes	Apterygidae	APTAUS	Apterygiformes	Apteryx australis
+NCBI-006	Aves	Falconiformes	Falconidae	FALCHE	Falconiformes	Falco cherrug
+NCBI-007	Aves	Passeriformes	Emberizidae	ZONALB	Passeriformes	Zonotrichia albicollis
+NCBI-008	Aves	Passeriformes	Pipridae	LEPCOR	Passeriformes	Lepidothrix coronata
+NCBI-009	Aves	Anseriformes	Anatidae	ANSCYG	Anseriformes	Anser cygnoides
+NCBI-010	Aves	Passeriformes	Parulidae	SETCOR	Passeriformes	Setophaga coronata
+NCBI-011	Aves	Galliformes	Phasianidae	GALGAL	Galliformes	Gallus gallus
+NCBI-012	Aves	Passeriformes	Muscicapidae	FICALB	Passeriformes	Ficedula albicollis
+NCBI-013	Aves	Passeriformes	Estrildidae	TAEGUT	Passeriformes	Taeniopygia guttata
+NCBI-014	Aves	Accipitriformes	Accipitridae	AQUCHR	Accipitriformes	Aquila chrysaetos canadensis
+NCBI-015	Aves	Charadriiformes	Scolopacidae	CALPUG	Charadriiformes	Calidris pugnax
+NCBI-016	Aves	Galliformes	Phasianidae	TYMCUP	Galliformes	Tympanuchus cupido
+NCBI-017	Aves	Passeriformes	Paridae	PSEHUM	Passeriformes	Pseudopodoces humilis
+NCBI-018	Aves	Passeriformes	Fringillidae	SERCAN	Passeriformes	Serinus canaria
+NCBI-019	Aves	Columbiformes	Columbidae	PATFAS	Columbiformes	Patagioenas fasciata
+NCBI-020	Aves	Passeriformes	Corvidae	CORCOR	Passeriformes	Corvus cornix cornix
+NCBI-021	Aves	Passeriformes	Passeridae	PASDOM	Passeriformes	Passer domesticus
+NCBI-022	Aves	Passeriformes	Paridae	PARMAJ	Passeriformes	Parus major
+NCBI-024	Aves	Galliformes	Odontophoridae	COLVIR	Galliformes	Colinus virginianus
+NCBI-025	Aves	Galliformes	Odontophoridae	CALSQU	Galliformes	Callipepla squamata
+NCBI-026	Aves	Passeriformes	Thraupidae	SPOHYP	Passeriformes	Sporophila hypoxantha
+NCBI-027	Aves	Pelecaniformes	Phalacrocoracidae	URIPEL	Pelecaniformes	Urile pelagicus
+NCBI-028	Aves	Pelecaniformes	Phalacrocoracidae	NANAUR	Pelecaniformes	Nannopterum auritus
+NCBI-029	Aves	Pelecaniformes	Phalacrocoracidae	NANHAR	Pelecaniformes	Nannopterum harrisi
+NCBI-030	Aves	Pelecaniformes	Phalacrocoracidae	NANBRA	Pelecaniformes	Nannopterum brasilianus
+NCBI-031	Aves	Passeriformes	Estrildidae	LONSTR	Passeriformes	Lonchura striata
+NCBI-032	Aves	Anseriformes	Anatidae	ANAZON	Anseriformes	Anas zonorhyncha
+NCBI-033	Aves	Passeriformes	Phylloscopidae	PHYTRO	Passeriformes	Phylloscopus trochilus
+NCBI-034	Aves	Passeriformes	Muscicapidae	SAXMAU	Passeriformes	Saxicola maurus
+NCBI-035	Aves	Charadriiformes	Alcidae	URILOM	Charadriiformes	Uria lomvia
+NCBI-036	Aves	Strigiformes	Strigidae	STROCC	Strigiformes	Strix occidentalis caurina
+NCBI-037	Aves	Anseriformes	Anatidae	ANAPLA	Anseriformes	Anas platyrhynchos
+OUT-0001	Aves	Psittaciformes	Psittaculidae	AGAROS	Psittaciformes	Agapornis roseicollis
+OUT-0002	Aves	Caprimulgiformes	Trochilidae	OREMEL	Caprimulgiformes	Oreotrochilus melanogaster
+OUT-0003	Aves	Charadriiformes	Alcidae	ALCTOR	Charadriiformes	Alca torda
+OUT-0004	Aves	Caprimulgiformes	Steatornithidae	STECAR	Caprimulgiformes	Steatornis caripensis
+OUT-0007	Aves	Columbiformes	Columbidae	CALNIC	Columbiformes	Caloenas nicobarica
+OUT-0008	Aves	Passeriformes	Emberizidae	MELMEL	Passeriformes	Melospiza melodia
+OUT-0010	Aves	Passeriformes	Thamnophilidae	RHEHOF	Passeriformes	Rhegmatorhina hoffmannsi
+OUT-0011	Aves	Passeriformes	Fringillidae	LOXCUR	Passeriformes	Loxia curvirostra
+OUT-0012	Aves	Passeriformes	Emberizidae	JUNHYE	Passeriformes	Junco hyemalis
+OUT-0013	Aves	Passeriformes	Sylviidae	SYLATR	Passeriformes	Sylvia atricapilla
+OUT-0015	Aves	Passeriformes	Muscicapidae	ERIRUB	Passeriformes	Erithacus rubecula
+OUT-0016	Aves	Charadriiformes	Scolopacidae	LIMLAP	Charadriiformes	Limosa lapponica
+OUT-0017	Aves	Passeriformes	Cardinalidae	PASAMO	Passeriformes	Passerina amoena
+OUT-0018	Aves	Passeriformes	Cardinalidae	PHEMEL	Passeriformes	Pheucticus melanocephalus
+OUT-0019	Aves	Charadriiformes	Alcidae	URIAAL	Charadriiformes	Uria aalge
+OUT-0020	Aves	Charadriiformes	Alcidae	CEPGRY	Charadriiformes	Cepphus grylle
+OUT-0021	Aves	Charadriiformes	Laridae	RISTRI	Charadriiformes	Rissa tridactyla
+OUT-0022	Aves	Passeriformes	Corvidae	APHCOE	Passeriformes	Aphelocoma coerulescens
+OUT-0023	Aves	Passeriformes	Paridae	POEATR	Passeriformes	Poecile atricapillus
+OUT-0024	Aves	Passeriformes	Muscicapidae	CERCOR	Passeriformes	Cercotrichas coryphaeus
+OUT-0025	Aves	Procellariiformes	Procellariidae	CALBOR	Procellariiformes	Calonectris borealis
+OUT-0026	Aves	Apterygiformes	Apterygidae	APTHAA	Apterygiformes	Apteryx haastii
+OUT-0027	Aves	Apterygiformes	Apterygidae	APTOWE	Apterygiformes	Apteryx owenii
+OUT-0028	Aves	Apterygiformes	Apterygidae	APTROW	Apterygiformes	Apteryx rowi
+OUT-0029	Aves	Tinamiformes	Tinamidae	CRYCIN	Tinamiformes	Crypturellus cinnamomeus
+OUT-0030	Aves	Tinamiformes	Tinamidae	NOTPER	Tinamiformes	Nothoprocta perdicaria
+OUT-0031	Aves	Rheiformes	Rheidae	RHEAME	Rheiformes	Rhea americana
+OUT-0032	Aves	Rheiformes	Rheidae	RHEPEN	Rheiformes	Rhea pennata
+OUT-0034	Aves	Passeriformes	Fringillidae	CHLVIR	Passeriformes	Chlorodrepanis virens
+OUT-0035	Aves	Passeriformes	Fringillidae	HEMWIL	Passeriformes	Hemignathus wilsoni
+OUT-0036	Aves	Anseriformes	Anatidae	CAIMOS	Anseriformes	Cairina moschata
+OUT-0037	Aves	Passeriformes	Pycnonotidae	BRAATR	Passeriformes	Brachypodius atriceps
+OUT-0039	Aves	Passeriformes	Certhiidae	CERFAM	Passeriformes	Certhia familiaris
+OUT-0040	Aves	Accipitriformes	Accipitridae	HALALB	Accipitriformes	Haliaeetus albicilla
+OUT-0045	Aves	Galliformes	Phasianidae	PHACOL	Galliformes	Phasianus colchicus
+OUT-0046	Aves	Charadriiformes	Charadriidae	CHAALE	Charadriiformes	Charadrius alexandrinus
+OUT-0047	Aves	Passeriformes	Pipridae	MANMAN	Passeriformes	Manacus manacus
+OUT-0048	Aves	Passeriformes	Viduidae	VIDCHA	Passeriformes	Vidua chalybeata
+OUT-0049	Aves	Passeriformes	Icteridae	MOLATE	Passeriformes	Molothrus ater
+OUT-0050	Aves	Passeriformes	Icteridae	AGEPHO	Passeriformes	Agelaius phoeniceus
+OUT-0051	Aves	Anseriformes	Anatidae	ASASCU	Anseriformes	Asarcornis scutulata
+OUT-0053	Aves	Passeriformes	Thraupidae	NESACU	Passeriformes	Nesospiza acunhae
+OUT-0054	Aves	Passeriformes	Acrocephalidae	ACRARU	Passeriformes	Acrocephalus arundinaceus
+OUT-0055	Aves	Gruiformes	Rallidae	ATLROG	Gruiformes	Atlantisia rogersi
+OUT-0056	Aves	Passeriformes	Scotocercidae	CETCET	Passeriformes	Cettia cetti
+OUT-0059	Aves	Passeriformes	Furnariidae	XIPELE	Passeriformes	Xiphorhynchus elegans
+OUT-0060	Aves	Passeriformes	Corvidae	CORMON	Passeriformes	Corvus moneduloides
+OUT-0061	Aves	Passeriformes	Muscicapidae	COPSEC	Passeriformes	Copsychus sechellarum
+OUT-0062	Aves	Galliformes	Numididae	NUMMEL	Galliformes	Numida meleagris
+Bos_taurus	Mammalia	Artiodactyla	Bovidae	Bos_taurus	Bos_taurus	Bos_taurus
+Sus_scrofa	Mammalia	Artiodactyla	Suidae	Sus_scrofa	Sus_scrofa	Sus_scrofa
+Canis_familiaris	Mammalia	Carnivora	Canidae	Canis_familiaris	Canis_familiaris	Canis_familiaris
+Myotis_davidii	Mammalia	Chiroptera	Vespertilionidae	Myotis_davidii	Myotis_davidii	Myotis_davidii
+Pteropus_alecto	Mammalia	Chiroptera	Pteropodidae	Pteropus_alecto	Pteropus_alecto	Pteropus_alecto
+Monodelphis_domestica	Mammalia	Didelphimorphia	Didelphidae	Monodelphis_domestica	Monodelphis_domestica	Monodelphis_domestica
+Oryctolagus_cuniculus	Mammalia	Lagomorpha	Leporidae	Oryctolagus_cuniculus	Oryctolagus_cuniculus	Oryctolagus_cuniculus
+Equus_caballus	Mammalia	Perissodactyla	Equidae	Equus_caballus	Equus_caballus	Equus_caballus
+Homo_sapiens	Mammalia	Primates	Hominidae	Homo_sapiens	Homo_sapiens	Homo_sapiens
+Macaca_mulatta	Mammalia	Primates	Cercopithecidae	Macaca_mulatta	Macaca_mulatta	Macaca_mulatta
+Pan_troglodytes	Mammalia	Primates	Hominidae	Pan_troglodytes	Pan_troglodytes	Pan_troglodytes
+Pongo_abelii	Mammalia	Primates	Hominidae	Pongo_abelii	Pongo_abelii	Pongo_abelii
+Loxodonta_africana	Mammalia	Proboscidea	Elephantidae	Loxodonta_africana	Loxodonta_africana	Loxodonta_africana
+Cavia_porcellus	Mammalia	Rodentia	Caviidae	Cavia_porcellus	Cavia_porcellus	Cavia_porcellus
+Cricetulus_griseus	Mammalia	Rodentia	Cricetidae	Cricetulus_griseus	Cricetulus_griseus	Cricetulus_griseus
+Dipodomys_ordii	Mammalia	Rodentia	Heteromyidae	Dipodomys_ordii	Dipodomys_ordii	Dipodomys_ordii
+Heterocephalus_glaber	Mammalia	Rodentia	Heterocephalidae	Heterocephalus_glaber	Heterocephalus_glaber	Heterocephalus_glaber
+Ictidomys_tridecemlineatus	Mammalia	Rodentia	Sciuridae	Ictidomys_tridecemlineatus	Ictidomys_tridecemlineatus	Ictidomys_tridecemlineatus
+Mus_musculus	Mammalia	Rodentia	Muridae	Mus_musculus	Mus_musculus	Mus_musculus
+Rattus_norvegicus	Mammalia	Rodentia	Muridae	Rattus_norvegicus	Rattus_norvegicus	Rattus_norvegicus
+Alligator_mississippiensis	Reptilia	Crocodilia	Alligatoridae	Alligator_mississippiensis	Alligator_mississippiensis	Alligator_mississippiensis
+Alligator_sinensis	Reptilia	Crocodilia	Alligatoridae	Alligator_sinensis	Alligator_sinensis	Alligator_sinensis
+Gavialis_gangeticus	Reptilia	Crocodilia	Gavialidae	Gavialis_gangeticus	Gavialis_gangeticus	Gavialis_gangeticus
+Sphenodon_punctatus	Reptilia	Rhynchocephalia	Sphenodontidae	Sphenodon_punctatus	Sphenodon_punctatus	Sphenodon_punctatus
+Anolis_carolinensis	Reptilia	Squamata	Dactyloidae	Anolis_carolinensis	Anolis_carolinensis	Anolis_carolinensis
+Crotalus_tigris	Reptilia	Squamata	Viperidae	Crotalus_tigris	Crotalus_tigris	Crotalus_tigris
+Gekko_japonicus	Reptilia	Squamata	Gekkonidae	Gekko_japonicus	Gekko_japonicus	Gekko_japonicus
+Lacerta_agilis	Reptilia	Squamata	Lacertidae	Lacerta_agilis	Lacerta_agilis	Lacerta_agilis
+Myanophis_thanlyinensis	Reptilia	Squamata	Homalopsidae	Myanophis_thanlyinensis	Myanophis_thanlyinensis	Myanophis_thanlyinensis
+Pogona_vitticeps	Reptilia	Squamata	Agamidae	Pogona_vitticeps	Pogona_vitticeps	Pogona_vitticeps
+Pseudonaja_textilis	Reptilia	Squamata	Elapidae	Pseudonaja_textilis	Pseudonaja_textilis	Pseudonaja_textilis
+Python_bivittatus	Reptilia	Squamata	Pythonidae	Python_bivittatus	Python_bivittatus	Python_bivittatus
+Sceloporus_undulatus	Reptilia	Squamata	Phrynosomatidae	Sceloporus_undulatus	Sceloporus_undulatus	Sceloporus_undulatus
+Thamnophis_sirtalis	Reptilia	Squamata	Colubridae	Thamnophis_sirtalis	Thamnophis_sirtalis	Thamnophis_sirtalis
+Zootoca_vivipara	Reptilia	Squamata	Lacertidae	Zootoca_vivipara	Zootoca_vivipara	Zootoca_vivipara
+Chelonia_mydas	Reptilia	Testudines	Cheloniidae	Chelonia_mydas	Chelonia_mydas	Chelonia_mydas
+Chelydra_serpentina	Reptilia	Testudines	Chelydridae	Chelydra_serpentina	Chelydra_serpentina	Chelydra_serpentina
+Dermochelys_coriacea	Reptilia	Testudines	Dermatemydidae	Dermochelys_coriacea	Dermochelys_coriacea	Dermochelys_coriacea
+Gopherus_evgoodei	Reptilia	Testudines	Testudinidae	Gopherus_evgoodei	Gopherus_evgoodei	Gopherus_evgoodei
+Mauremys_reevesii	Reptilia	Testudines	Geoemydidae	Mauremys_reevesii	Mauremys_reevesii	Mauremys_reevesii
+Pelodiscus_sinensis	Reptilia	Testudines	Trionychidae	Pelodiscus_sinensis	Pelodiscus_sinensis	Pelodiscus_sinensis
+Platysternon_megacephalum	Reptilia	Testudines	Platysternidae	Platysternon_megacephalum	Platysternon_megacephalum	Platysternon_megacephalum
+Trachemys_scripta	Reptilia	Testudines	Emydidae	Trachemys_scripta	Trachemys_scripta	Trachemys_scripta
