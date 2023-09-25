@@ -3,10 +3,6 @@ use strict;
 
 die "Usage: <bed>\n" unless @ARGV == 1;
 
-=pop
-LTR_retrotransposon1001(+)	2	68	APP-001::scaffold1680:18820-19165(+)	51.2	+	1
-=cut
-
 open (IN,$ARGV[0]) or die;
 my %hash;
 while(<IN>){
