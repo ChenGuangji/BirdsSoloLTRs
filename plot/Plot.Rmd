@@ -34,7 +34,7 @@ library("plotly")
 require(rr2)
 set.seed(1234)
 #wd
-setwd("/Users/chenguangji/Desktop/Solo-LTR/Plot") # macOS
+setwd("Plot") # macOS
 ```
 
 ```{r Figure_1}
