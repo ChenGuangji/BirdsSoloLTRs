@@ -14,5 +14,6 @@ If any questions, contact at chenguangji@genomics.cn.
 	- [RepeatMasker](script/RepeatMasker/RepeatMasker.sh)
 	- [LTR-harvest](script/ltrharvest.sh)
 	- [Classify LTR by RBH](script/mark.ltr.sh)
+	- [TSD checking](script/TSD_checking/)
 - [Main Figure plot](plot/Main_Plot.Rmd)
 	- [Revigo_visualization](plot/Revigo_MF.r)
