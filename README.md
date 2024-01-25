@@ -6,7 +6,7 @@ The genomes could also be downloaded from the NCBI database according to Supplem
 If any questions, contact at chenguangji@genomics.cn.
 
 ## Customized codes
-- [Data used in this study](data/Supplementary Table - Table S1.csv)
+- [Data used in this study](data/Supplementary\ Table\ -\ Table\ S1.csv)
 	- [eggNOG-mapper result](data/build/out.emapper.annotations.tsv)
 	- [GO analysis build script](data/build/build_local.R)
 	- [tree files](data/tree/)
