@@ -11,6 +11,8 @@ There are three major steps involved:
 		7 & 8. Generate the pairwise directory and shell for identity calculation
 		9. using RBH method mark the paired-LTRs or solo-LTRs
 
+
+Demo example:
 ```bash
 ### Solo-LTR_identification
 # ******************************************
