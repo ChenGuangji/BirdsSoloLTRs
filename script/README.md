@@ -1,4 +1,5 @@
 There are three major steps involved:
+
 	- Build the LTRs database
 		1. Repeatmask & ltr-harvest
 		2. intersection
