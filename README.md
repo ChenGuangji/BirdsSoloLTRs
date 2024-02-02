@@ -21,6 +21,7 @@ If any questions, contact at chenguangji@genomics.cn.
 ## Software dependencies
 * R package ggtree v3.3.0.900
 * R package UpSetR v.1.4.0
+* R package AnnotationForge v.1.42.0
 * RepeatMasker v4.1.2
 * RepBase library v.20170127
 * LTR-harvest v1.6.1
@@ -32,7 +33,6 @@ If any questions, contact at chenguangji@genomics.cn.
 * HTSeq package v.0.13.5
 * DESeq2 v.1.34.0
 * eggNOG-mapper
-* R package AnnotationForge v.1.42.0
 * [hal2maf](https://github.com/ComparativeGenomicsToolkit/hal)
 * [REVIGO tool](http://revigo.irb.hr/)
 * [FindM tool](http://ccg.vital-it.ch/ssa/findm.php)
