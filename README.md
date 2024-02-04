@@ -35,5 +35,3 @@ If any questions, contact at chenguangji@genomics.cn.
 * eggNOG-mapper
 * [hal2maf](https://github.com/ComparativeGenomicsToolkit/hal)
 * [REVIGO tool](http://revigo.irb.hr/)
-* [FindM tool](http://ccg.vital-it.ch/ssa/findm.php)
-* [FIJI](https://imagej.net/Fiji)
