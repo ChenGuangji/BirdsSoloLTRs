@@ -1,0 +1,458 @@
+---
+title: "BirdSoloLTRs"
+output: html_notebook
+author: "chenguangji"
+date: "11/03/2024"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r Figure 1A}
+# Figure 1A
+rm(list = ls())
+
+require("writexl")
+require("readxl")
+library("dplyr",quietly=T)
+library("ggplot2",quietly = T)
+library("ggtree",quietly = T)
+library("ape")
+library("aplot")
+library("ggsci")
+library("ggnewscale",quietly = T)
+library("ggtreeExtra",quietly = T)
+
+setwd("Source_Data/Figure_1/Figure_1A/")
+
+data.df<-read_excel("Figure_1A.xlsx")
+All.Sp = read.tree("Figure_1A.all.spe.tre")
+
+groupinfo<-split(data.df$Tree.name,data.df$clade)
+All.Sp <- groupOTU(All.Sp,groupinfo,"Clade")
+
+pdf("./Figure_1A.pdf",useDingbats = F,height=10,width=10)
+Clade<-NULL
+p.FigTree<-ggtree(All.Sp,aes(color=Clade),ladderize = T,branch.length="none",layout="fan",open.angle=180,size=0.3)+
+  scale_color_manual(values=c("gray","#E64B35","#4DBBD5","#6a3d9a"))+#geom_tiplab2(size=.5)+
+  geom_fruit(data=data.df,
+             geom=geom_point,
+             mapping=aes(y=Tree.name, x=proportion,color=clade),
+             pwidth=0.5,
+             size=0.8,alpha=0.8,
+             stat="identity",
+             # orientation="y",
+             axis.params=list(
+               axis       = "x",
+               text.angle = 45,
+               text.size  = 2,
+               hjust      = 0.5,
+               vjust      = 2,
+               nbreak     = 4
+             ),
+             grid.params=list(color="gray90"),
+             position="auto",
+             offset = 0.04) +
+  geom_strip("CHATOR","QUIMEX",barsize = 1.2,color="#66c2a5",     label="Neognathae",      offset=25, offset.text = 2 , hjust = 0.5,extend = .4, angle=13,  fontsize=2.8)+ 
+  geom_strip("CRYUND","STRCAM",barsize = 1.2,color="#d95f02",     label="Palaeognathae",   offset=25, offset.text = 2 , hjust = 0  ,extend = .4, angle=0 ,  fontsize=2.8)+ 
+  geom_strip("NEOCOR","TYRSAV", barsize = 0.9, color="#ff7f00", offset= 9 , offset.text = 1.5 , hjust = 0.5, extend = .4, angle=20, fontsize=2, label="Tyranni (suboscines)")+
+  geom_strip("ATRCLA","QUIMEX", barsize = 0.9, color="#6a3d9a", offset= 9 , offset.text = 1.5 , hjust = 0.5, extend = .4, angle=58, fontsize=2, label="Passeri (oscines)")+
+  geom_strip("PTILEU","VIRALT", barsize = 0.8, color="#cab2d6", offset= 12.5, offset.text = 1.5 , hjust = 0.5, extend = .4, angle=40, fontsize=2, label="Corvides")+
+  geom_strip("CNELOR","QUIMEX", barsize = 0.8, color="#1f78b4", offset= 12.5, offset.text = 1.5 , hjust = 0.5, extend = .4, angle=67, fontsize=2, label="Passerides")+
+  geom_strip("ANTMIN","LEILUT", barsize = 0.6, color="#6a3d9a", offset= 16, offset.text = 1.5 , hjust = 0.5, extend = .4, angle=53, fontsize=2, label="Sylviida")+
+  geom_strip("BOMGAR","SAXMAU", barsize = 0.6, color="#fb9a99", offset= 16, offset.text = 1.5 , hjust = 0.5, extend = .4, angle=66, fontsize=1.8, label="Muscicapida")+
+  geom_strip("PROCAF","QUIMEX", barsize = 0.6, color="#e31a1c", offset= 16, offset.text = 1.5 , hjust = 0.5, extend = .4, angle=81, fontsize=2, label="Passerida")+
+  geom_strip("RHOROS","QUIMEX", barsize = 0.6, color="#08519c", offset= 19, offset.text = 1.5 , hjust = 0.5, extend = .4, angle=88, fontsize=1.5, label="Emberizoidea")+
+  geom_strip("ACACHL","QUIMEX",barsize = 1  ,color="#00A8EE",     label="Passeriformes",   offset=29, offset.text = 2 , hjust = 0.5,extend = .4, angle=49,  fontsize=2.8)+ 
+  geom_strip("SEMFRA","BUCCAP",barsize = 1  ,color="#847AFF",     label="Piciformes",      offset=18, offset.text = 2 , hjust = 0.5,extend = .4, angle=07,  fontsize=2.8)+ 
+  geom_strip("BUCRHI","UPUEPO",barsize = 1  ,color="#D37700",     label="Bucerotiformes",  offset=18, offset.text = -2 , hjust = 0.1,extend = .4, angle=0,  fontsize=2.8)+ 
+  geom_strip("ALELAT","TYMCUP",barsize = 1  ,color="#29B455",     label="Galliformes",     offset=29, offset.text = 2 , hjust = 0,  extend = .4, angle=0 ,  fontsize=2.8)+
+  geom_strip("CHATOR","ANAZON",barsize = 1  ,color="#E7663E",     label="Anseriformes",    offset=29, offset.text = 2 , hjust = 0,  extend = .4, angle=0 ,  fontsize=2.8)+
+  geom_strip("NYCLEU","OREMEL",barsize = 1  ,color="#C67F00",     label="Caprimulgiformes",offset=29, offset.text = 2 , hjust = 0,  extend = .4, angle=0 ,  fontsize=2.8)+
+  geom_strip("BURBIS","LARSMI",barsize = 1  ,color="#9A9300",     label="Charadriiformes", offset=29, offset.text = 2 , hjust = 0,  extend = .4, angle=0 ,  fontsize=2.8)+
+  geom_strip("Alligator_mississippiensis","Gavialis_gangeticus",barsize = 1  ,color="#6a2d5a",     label="Crocodilia",  offset=29, offset.text = 7, hjust = 0.5,extend = .4, angle=10, fontsize=2.5)+
+  geom_strip("Pelodiscus_sinensis","Gopherus_evgoodei",barsize = 1  ,color="#7a5d5a",     label="Testudines",  offset=29, offset.text = 7, hjust = 0.5,extend = .4, angle=10, fontsize=2.5)+
+  geom_strip("Sphenodon_punctatus","Alligator_mississippiensis",barsize = 2,color="#6a3d9a",label="Reptilia",offset=24, offset.text = 4,hjust = 0.5,extend=.4,angle=-75, fontsize=2.8)+
+  geom_strip("Monodelphis_domestica","Mus_musculus",barsize = 2,color="#4DBBD5",label="Mammalia",offset=24, offset.text = 4,hjust = 0.5,extend=.4,angle=-85, fontsize=2.8)+
+  geom_fruit(data=data.df,
+             geom=geom_point,
+             mapping=aes(y=Tree.name, x=frequency,color=clade),
+             pwidth=0.4,
+             size=0.8,alpha=0.8,
+             stat="identity",
+             # orientation="y",
+             axis.params=list(
+               axis       = "x",
+               text.angle = 45,
+               text.size  = 2,
+               hjust      = 0.5,
+               vjust      = 2,
+               nbreak     = 4
+             ),
+             grid.params=list(color="gray90"),
+             position="auto",
+             offset = 0.3) 
+p.FigTree
+dev.off()
+
+```
+
+```{r Figure 1B}
+# Figure 1B
+rm(list = ls())
+
+require("writexl")
+require("readxl")
+library("dplyr",quietly=T)
+library("ggplot2",quietly = T)
+library("ggpubr",quietly = T)
+
+
+setwd("Source_Data/Figure_1/Figure_1B/")
+data.df.1B<-read_excel("Figure_1B.xlsx")
+
+### Figure_2B
+p.Fig1B<-ggscatter(data.df.1B %>% mutate(clade=factor(clade,levels=c("Aves","Reptilia","Mammalia"))), x = "fasize.log", y = "solo.count.log10", size = 0.8, color="clade",add = "reg.line", 
+                   conf.int = T,cor.coef =T,cor.coef.size=3,
+                   add.params = list(color = "clade", fill = "clade", size = 0.5),
+                   show.legend.text = T) +
+  scale_color_manual(values=c("#E64B35","#6a3d9a","#4DBBD5"))+
+  scale_fill_manual(values=c("#E64B35","#6a3d9a","#4DBBD5"))+
+  xlab("Genome size (log10 transformed)")+ylab("Solo-LTR count (log10 transformed)")+
+  theme(legend.position = "none")+facet_wrap(.~clade,scales = "free_x") + 
+  theme(strip.background = element_rect(fill=NA))
+p.Fig1B
+ggsave("Figure_1B.pdf",width = 10,height = 3)
+
+```
+
+```{r Figure 2A}
+# Figure 2A
+rm(list = ls())
+
+require("writexl")
+require("readxl")
+library("dplyr",quietly=T)
+library("ggplot2",quietly = T)
+library("ggtree",quietly = T)
+library("ape")
+library("aplot")
+library("ggsci")
+
+setwd("Source_Data/Figure_2/Figure_2A/")
+ERVK_proportion<-read_excel("Figure_2A.xlsx")
+Aves.Sp<-read.tree("Figure_2A.tre")
+
+Aves.Sp.groupinfo<-split(ERVK_proportion$Tree.name,ERVK_proportion$Order)
+Aves.Sp <- groupOTU(Aves.Sp,Aves.Sp.groupinfo,"Clade")
+p.Aves.Sp<-ggtree(keep.tip(Aves.Sp,ERVK_proportion$Tree.name),aes(color=Clade),ladderize = T,branch.length="none")+
+  theme(legend.position = "none")+
+  scale_color_manual(values=c("gray",colorRampPalette(pal_npg("nrc", alpha = 0.7)(10))(37)))+scale_y_reverse()+
+                                geom_hline(aes(yintercept = 321.5),linetype="longdash",color="gray",alpha=0.8) + 
+                                geom_hline(aes(yintercept = 259.5),linetype="longdash",color="gray",alpha=0.8) +
+                                geom_hline(aes(yintercept = 217.5),linetype="longdash",color="gray",alpha=0.8)+
+                                geom_hline(aes(yintercept = 190.5),linetype="longdash",color="gray",alpha=0.8)+
+                                geom_hline(aes(yintercept = 19.5),linetype="longdash",color="gray",alpha=0.8)+
+                                geom_strip("CHATOR","QUIMEX",barsize = 1.2,color="#66c2a5",label="Neognathae",offset=2, offset.text = 5, hjust = 0,extend = .4)+ 
+                                geom_strip("CRYUND","STRCAM",barsize = 1.2,color="#d95f02",label="Palaeognathae",offset=2, offset.text = 3, hjust = 0,extend = .4)+ 
+                                geom_strip("ATRCLA","QUIMEX",barsize = 0.9,color="#2c7fb8",label="Passeri",offset=8, offset.text = 5, hjust = 0,extend = .4, fontsize=3)+ 
+                                geom_strip("CNELOR","QUIMEX",barsize = 0.9,color="deepskyblue4",label="Passerides",offset=11, offset.text = 3, hjust = 0,extend = .4, fontsize=3)+
+                                geom_strip("PROCAF","QUIMEX",barsize = 0.9,color="dodgerblue4",label="Passerida",offset=14, offset.text = 2, hjust = 0,extend = .4, fontsize=3)+
+                                geom_strip("ACACHL","QUIMEX",barsize = 1,color="#00A8EE",label="Passeriformes",offset=5, offset.text = 8, hjust = 0,extend = .4, fontsize=3)+ 
+                                geom_strip("SEMFRA","BUCCAP",barsize = 1,color="#847AFF",label="Piciformes",offset=5, offset.text = 3, hjust = 0,extend = .4, fontsize=3)+ 
+                                geom_strip("BUCRHI","UPUEPO",barsize = 1,color="#D37700",label="Bucerotiformes",offset=5, offset.text = 3, hjust = 0,extend = .4, fontsize=3)+ 
+                                geom_strip("ALELAT","TYMCUP",barsize = 1,color="#29B455",label="Galliformes",offset=5, offset.text = 3, hjust = 0,extend = .4, fontsize=3)+
+                                geom_strip("CHATOR","ANAZON",barsize = 1,color="#E7663E",label="Anseriformes",offset=5, offset.text = 3, hjust = 0,extend = .4, fontsize=3)+
+                                geom_strip("NYCLEU","OREMEL",barsize = 1,color="#C67F00",label="Caprimulgiformes",offset=5, offset.text = 3, hjust = 0,extend = .4,fontsize=3)+
+                                geom_strip("BURBIS","LARSMI",barsize = 1,color="#9A9300",label="Charadriiformes",offset=5, offset.text = 3, hjust = 0,extend = .4,fontsize=3)+
+                                geom_strip("CICMAG","NANBRA",barsize = 1,color="#1D9AFF",label="Pelecaniformes",offset=5, offset.text = 3, hjust = 0,extend = .4,fontsize=3)+
+                                geom_strip("CATAUR","SPITYR",barsize = 1,color="#EF5D59",label="Accipitriformes",offset=5, offset.text = 3, hjust = 0,extend = .4,fontsize=3)+
+                                xlim(0,88)
+### Figure_2A
+p.Figure_2A.pre<-ggplot(data = ERVK_proportion,
+                        aes(x=Tree.name, y=detail.r.length)) + 
+                 geom_point(aes(color=Order),size=0.3)+
+                 geom_line(aes(group=Order,color=Order)) +
+                 coord_flip() + theme_tree2() + 
+                 labs(caption = "cutoff = 20k_&&_85_indentity",y="Proportion (Unit:%)") +
+                 theme(legend.position='none',axis.text.x =element_text(angle = 45,vjust = 0.5, hjust = 0.5)) + 
+                 geom_vline(aes(xintercept = 217.5),linetype="longdash",color="gray",alpha=0.8)+
+                 geom_vline(aes(xintercept = 190.5),linetype="longdash",color="gray",alpha=0.8)+
+                 geom_vline(aes(xintercept = 19.5),linetype="longdash",color="gray",alpha=0.8)+
+                 geom_vline(aes(xintercept = 259.5),linetype="longdash",color="gray",alpha=0.8) + 
+                 geom_vline(aes(xintercept = 321.5),linetype="longdash",color="gray",alpha=0.8)+
+  theme(strip.background=element_rect(fill=NA,color=NA))
+
+
+# p.Figure_2A<-
+  p.Figure_2A.pre %>% insert_left(p.Aves.Sp,width = 1) 
+# p.Figure_2A
+ggsave("Figure_2A.pdf",width = 5,height = 10)
+```
+
+```{r Figure 2BC}
+# Figure 2BC
+rm(list = ls())
+
+require("writexl")
+require("readxl")
+library("dplyr",quietly=T)
+library("ggplot2",quietly = T)
+library("ggtree",quietly = T)
+library("ape")
+library("aplot")
+library("ggsci")
+
+setwd("Source_Data/Figure_2/Figure_2BC/")
+ERVK_proportion_node<-read_excel("Figure_2BC.xlsx")
+
+### Figure_2B
+p.Figure_2B<-ggplot(ERVK_proportion_node %>% filter(clade %in% c("Passeriformes")),
+                    aes(x=nodes,y=proportion,group=clade,color=clade,fill=clade))+
+             geom_smooth(method = "lm",alpha=0.5)+
+             geom_point()+
+             scale_color_manual(limits = c("Passeriformes"),
+                                values = c("#0099FF"))+
+             scale_fill_manual(limits = c("Passeriformes"),
+                               values = c("#0099FF"))+
+             theme_classic()+
+             labs(x="Speciation events",y="Proportion of ERVK Solo-LTRs",
+                  title="B",subtitle = "B10K tree (363 species)")+
+             theme(legend.position = "none",legend.title = element_blank())+
+             scale_y_continuous(limits=c(0,NA))+facet_wrap(.~clade,ncol=2)
+p.Figure_2B
+ggsave("Figure_2B.pdf",width = 5,height = 5)
+### Figure_2C
+p.Figure_2C<-ggplot(ERVK_proportion_node %>% filter(clade %in% c("Passerida","Muscicapida","Sylviida","Corvides")),
+                    aes(x=nodes,y=proportion,group=clade,color=clade,fill=clade))+
+             geom_smooth(method = "lm",alpha=0.5)+
+             geom_point()+
+             scale_color_manual(limits = c("Passerida","Muscicapida","Sylviida","Corvides"),
+                                values = c("#e31a1c","#fb9a99","#6a3d9a","#cab2d6"))+
+             scale_fill_manual(limits = c("Passerida","Muscicapida","Sylviida","Corvides"),
+                               values = c("#e31a1c","#fb9a99","#6a3d9a","#cab2d6"))+
+             theme_classic()+
+             labs(x="Speciation events",y="Proportion of ERVK Solo-LTRs",
+                  title="C",subtitle = "B10K tree (363 species)")+
+             theme(legend.position = "top",legend.title = element_blank())
+p.Figure_2C
+ggsave("Figure_2C.pdf",width = 5,height = 5.3)
+```
+
+```{r Figrue 3A}
+# Figure 3A
+rm(list = ls())
+
+require("writexl")
+require("readxl")
+library("dplyr",quietly=T)
+library("ggplot2",quietly = T)
+library("ggtree",quietly = T)
+library("ape")
+library("aplot")
+library("ggsci")
+
+setwd("Source_Data/Figure_3/Figure_3A/")
+bed.s.df<-read_excel("Figure_3A.xlsx")
+Figure_3A.tre<-read.tree("Figure_3A.tre")
+p.Figure_3A.pre<-
+  bed.s.df %>% ggplot(aes(counts,Tree.name,fill=type2))+
+  # geom_point(aes(y=spe,x=value,color=variable))+
+  geom_bar(stat="identity",position = "stack")+
+  # scale_fill_d3()+
+  scale_fill_manual(limits = c("MRCA of Passeri (oscines)","MRCA of Passerides","MRCA of Passerida",
+                               "share","unique"),
+                    values = c("#fb766d","#7cae00","#619cff",
+                               "#8C5CB1","#4BBA9B"))+
+  scale_x_continuous(labels = scales::comma,expand = c(0,0))+
+  theme_classic()+theme(axis.text.y = element_blank(),axis.ticks.y=element_blank(),legend.title = element_blank(),legend.position = c(0.7,0.2))+
+  labs(x="counts of ERVK solo-LTR insertion",y="")
+
+
+P.Figure_3A.tre<-ggtree(Figure_3A.tre,ladderize = T,branch.length="none") +#%<+% Pass_Super +
+  # geom_tiplab(aes(label=paste(Suborder,Infraorder,Parvorder,Superfamily,Family,label)),size=1.2)+
+  geom_strip("ATRCLA","QUIMEX", barsize = 2.2, color="#fb766d", offset=0+ 3, offset.text = 1.2 +4, hjust = 0.5, extend = .4, angle=270, fontsize=4, label="Passeri (oscines)")+
+  geom_strip("CNELOR","QUIMEX", barsize = 1.6, color="#7cae00", offset=0+ 12, offset.text = 1 +4, hjust = 0.5, extend = .4, angle=270, fontsize=4, label="Passerides")+
+  geom_strip("PROCAF","QUIMEX", barsize = 1.2, color="#619cff", offset=0+ 17, offset.text = 1 +4, hjust = 0.5, extend = .4, angle=270, fontsize=4, label="Passerida")
+
+require("aplot")
+pdf("Figure_3A.pdf",height = 7,width=5)
+p.Figure_3A.pre %>% insert_left(P.Figure_3A.tre+xlim(NA,55),1)
+dev.off()
+```
+
+```{r Figrue 3B}
+# Figure 3B
+rm(list = ls())
+
+require("writexl")
+require("readxl")
+library("dplyr",quietly=T)
+library("ggplot2",quietly = T)
+library("ape")
+library("aplot")
+library("pheatmap")
+setwd("Source_Data/Figure_3/Figure_3B/")
+
+annotation_col<-read.csv("Figrue_3B.annotation_col.csv",row.names="X")
+ERVK_related.NorCounts<-read.csv("Figrue_3B_NorCounts.csv",row.names="X")
+DEGs_ADD_ERVK_related<-read.csv("Figure_3B_DEGs.csv")
+
+annotation_row = data.frame(DEGs = factor((DEGs_ADD_ERVK_related %>% filter(ERVK_related=="ERVK_related"))$diffexpressed,
+                            levels = c("UP","DOWN")))
+rownames(annotation_row) = (ERVK_related.DEGs %>% filter(ERVK_related=="ERVK_related"))$ID
+
+p.Figure_3B<-pheatmap::pheatmap(log10(ERVK_related.NorCounts+1),
+                   color = colorRampPalette(c("#5074AF","#E0F3F8","#ffffbf","#ffeda0","#FEE090","#feb24c","#FC8D59","#fc4e2a","#D73027"))(100),
+                   cluster_rows=T,cluster_cols=F,treeheight_row=0,
+                   na_col = "grey80",border_color=NA,
+                   annotation_col=annotation_col,
+                   annotation_row=annotation_row,
+                   gaps_col=14,
+                   show_rownames=F,fontsize_row=4,show_colnames=F)
+p.Figure_3B
+ggsave("Figure_3B.pdf",p.Figure_3B,h=5,w=5)
+```
+
+```{r Figrue 3C}
+### Figure 3C
+rm(list = ls())
+
+library("UpSetR")
+library("ComplexHeatmap")
+
+### upset R
+setwd("Source_Data/Figure_3/Figure_3C/")
+upset.df<-read.csv("Figure_3C.csv",header = T,row.names=1)
+names(upset.df)[1]="taeGut1"
+
+m = make_comb_mat(upset.df)
+m2 = m[comb_size(m) <= 60]
+m3 = m2[comb_size(m2) >= 2]
+
+pdf("Figure_3C.pdf",width = 15,height = 7)
+ht2 = draw(UpSet(m[comb_size(m) >= 2],
+      pt_size = unit(3, "mm"),
+      comb_order = order(comb_size(m[comb_size(m) >= 2]),decreasing = T),
+      top_annotation = HeatmapAnnotation(
+        "ERVK\nsolo-LTR\nCounts" = anno_barplot(
+          comb_size(m[comb_size(m) >= 2]),border = FALSE,gp = gpar(fill = "black"), 
+          height = unit(7, "cm"),ylim=c(0,27000)
+          ), 
+        annotation_name_side = "left",
+        annotation_name_rot = 0),
+      right_annotation=NULL))
+od2 = column_order(ht2)
+cs2 = comb_size(m[comb_size(m) >= 2])
+
+decorate_annotation("ERVK\nsolo-LTR\nCounts", {
+    grid.text(cs2[od2], x = seq_along(cs2), y = unit(cs2[od2], "native") + unit(3, "pt"), 
+        default.units = "native", just = "bottom", gp = gpar(fontsize = 10),rot=45,hjust=0,vjust=0.2)
+})
+dev.off()
+```
+
+```{r Figure 4A}
+### Figure 4A
+rm(list = ls())
+
+library("ggplot2")
+setwd("/Users/chenguangji/Desktop/05.内源性病毒/LTR/Solo-LTR_report/Solo-Final/Source_Data/Figure_4/Figure_4A/")
+ClosestGene<-read.table("Figure_4A.txt",sep="\t",header=T)
+
+ClosestGene$term<-factor(ClosestGene$term,levels=rev(c("all","H3K27ac","H3K4me3","H3K27me3")))
+ClosestGene$distance<-factor(ClosestGene$distance,levels = c("2k","5k","10k"))
+
+p.Figure_4A <- ggplot(ClosestGene,aes(x=closest_GeneNum,y=term,fill=distance))+
+  geom_bar(width = 0.8,stat = 'identity', position = 'dodge')+
+  geom_text(aes(label=scales::comma(closest_GeneNum,1)),hjust=-0.1,position = position_dodge(width = 0.9))+
+  guides(fill=guide_legend((title="Distance Cutoff")))+
+  theme_classic()+scale_x_continuous(expand = c(0,0),limits = c(NA,2200),labels = scales::comma)+
+  labs(y="",x="Gene Number",title="A")+theme(legend.position = c(0.78,0.12))
+p.Figure_4A
+ggsave("Figure_4A.pdf",p.Figure_4A,h=5,w=5)
+```
+
+```{r Figrue_4B}
+# Figrue_4B
+
+# A plotting R script produced by the Revigo server at http://revigo.irb.hr/
+# If you found Revigo useful in your work, please cite the following reference:
+# Supek F et al. "REVIGO summarizes and visualizes long lists of Gene Ontology
+# terms" PLoS ONE 2011. doi:10.1371/journal.pone.0021800
+
+# The axes in the plot have no intrinsic meaning. Revigo uses Multidimensional Scaling (MDS) to reduce the dimensionality of a matrix of the GO terms pairwise semantic similarities. The resulting projection may be highly non linear. The guiding principle is that semantically similar GO terms should remain close together in the plot. Repeated runs of Revigo may yield different arrangements, but the term distances will remain similar.
+# 
+# Would you like to remove obsolete GO terms: No
+# What species would you like to work with: Gallus gallus (9031)
+# What semantic similarity measure would you like to use: Resnik (normalized)
+
+# --------------------------------------------------------------------------
+require( ggplot2 );
+require( scales );
+require( ggrepel );
+require( dplyr )
+
+# --------------------------------------------------------------------------
+setwd("/Users/chenguangji/Desktop/05.内源性病毒/LTR/Solo-LTR_report/Solo-Final/Source_Data/Figure_4/Figure_4B/")
+revigo.data.tsv<-read.table("Figure_4B.tsv",header = T,sep="\t")
+
+# one.data <- data.frame(revigo.data.tsv);
+# names(one.data) <- revigo.names;
+
+one.data<-revigo.data.tsv
+one.data <- one.data [(one.data$PC_0 != "null" & one.data$PC_1 != "null"), ];
+one.data$plot_X <- as.numeric( as.character(one.data$PC_0) );
+one.data$plot_Y <- as.numeric( as.character(one.data$PC_1) );
+one.data$log_size <- as.numeric( as.character(one.data$LogSize) );
+one.data$value <- as.numeric( as.character(one.data$Value) );
+one.data$frequency <- as.numeric( as.character(one.data$Frequency) );
+one.data$uniqueness <- as.numeric( as.character(one.data$Uniqueness) );
+one.data$dispensability <- as.numeric( as.character(one.data$Dispensability) );
+#head(one.data);
+
+
+# --------------------------------------------------------------------------
+# Names of the axes, sizes of the numbers and letters, names of the columns,
+# etc. can be changed below
+ex <- one.data [ one.data$dispensability < 0.35, ];
+one.x_range = max(one.data$value) - min(one.data$value);
+one.y_range = max(one.data$plot_Y) - min(one.data$plot_Y);
+
+one.data.MF<-one.data %>%filter(Aspects=="Molecular Function")
+ex.MF <- one.data.MF [ one.data.MF$dispensability < 0.4, ];
+p.revigo.MF <- ggplot( data = one.data.MF )+
+  geom_point( aes( plot_X, plot_Y, colour = value, size = log_size))+ 
+  scale_colour_gradientn( colours = rev(c("blue","green", "yellow", "red")), limits = c( min(one.data$value), max(one.data$value)) )+
+  geom_point( aes( plot_X, plot_Y, size = log_size), shape = 21, fill = "transparent", colour = I (alpha ("black", 0.8) )) +
+  geom_text_repel( data = ex.MF , aes(plot_X, plot_Y, label = Name), size = 3,max.overlaps=500,min.segment.length=0,direction="both",nudge_y=ifelse(ex.MF$plot_Y>0,-0.4,0.4))+
+  scale_size(name="LogSize",range=c(3, 15)) + 
+  labs (y = "semantic space Y", x = "semantic space X",title="B")+
+  theme_classic()+
+  theme(legend.key = element_blank(),legend.position = "top")
+p.revigo.MF
+ggsave("Figure_4B.pdf",w=5,h=5)
+```
+
+```{r Figure_4C}
+# Figure_4C
+require( ggplot2 );
+require( scales );
+require( ggrepel );
+require( dplyr )
+
+setwd("Source_Data/Figure_4/Figure_4C/")
+Brian_compare.DEGs.df<-read.csv("Figure_4C.csv")
+p.Volcano<- ggplot(Brian_compare.DEGs.df,
+                   aes(log2FoldChange,-1*log10(padj)))+ 
+  geom_point(aes(color = diffexpressed),alpha=0.4,size = 1) +
+  scale_color_manual(values=c("blue","black", "red")) +
+  labs(x = expression(log[2](FoldChange)), y = expression(-log[10](p.adj))) +
+  geom_vline(xintercept=c(-1, 1), lty=2,col="black",lwd=0.5) + 
+  geom_hline(yintercept=-log10(0.05), lty=2,col="red",lwd=0.5) +
+  geom_point(data=Brian_compare.DEGs.df %>% filter(ERVK_regulated =="ERVK_regulated") ,aes(log2FoldChange,-1*log10(padj),color = "ERVK_regulated"),alpha=0.8,size = 1) +
+  geom_label_repel(data=Brian_compare.DEGs.df %>% filter(name!="NA"),
+                   aes(log2FoldChange,-1*log10(padj),label=name),size = 2,label.padding = 0.15,min.segment.length = unit(0, 'lines'), nudge_y = 40,nudge_x = c(5,-5))+
+  theme_classic()
+ggsave("Figure_4C.pdf",p.Volcano,width = 5,height = 3.2)
+```
+

@@ -1,0 +1,13 @@
+term	distance	closest_GeneNum
+all	2k	1221
+H3K4me3	2k	345
+H3K27me3	2k	916
+H3K27ac	2k	211
+all	5k	1410
+H3K4me3	5k	403
+H3K27me3	5k	1054
+H3K27ac	5k	241
+all	10k	1640
+H3K4me3	10k	459
+H3K27me3	10k	1239
+H3K27ac	10k	286
