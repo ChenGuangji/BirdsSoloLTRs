@@ -17,3 +17,21 @@ If any questions, contact at chenguangji@genomics.cn.
 	- [TSD checking](script/TSD_checking/)
 - [Main Figure plot](plot/Main_Plot.Rmd)
 	- [Revigo_visualization](plot/Revigo_MF.r)
+
+## Software dependencies
+* R package ggtree v3.3.0.900
+* R package UpSetR v.1.4.0
+* R package AnnotationForge v.1.42.0
+* RepeatMasker v4.1.2
+* RepBase library v.20170127
+* LTR-harvest v1.6.1
+* bedtools v2.30.0
+* blastn v2.9.0
+* KneadData v0.10.0
+* SILVA ribosomal RNA database v0.2
+* Hisat2 v.2.2.1
+* HTSeq package v.0.13.5
+* DESeq2 v.1.34.0
+* eggNOG-mapper
+* [hal2maf](https://github.com/ComparativeGenomicsToolkit/hal)
+* [REVIGO tool](http://revigo.irb.hr/)
