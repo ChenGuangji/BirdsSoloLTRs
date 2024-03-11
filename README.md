@@ -6,17 +6,21 @@ The genomes could also be downloaded from the NCBI database according to Supplem
 If any questions, contact at chenguangji@genomics.cn.
 
 ## Customized codes
-- [Data used in this study](data/Supplementary%20Table%20-%20Table%20S1.csv)
+- [Data used in this study](data/Supplementary%20Data%201.csv)
 	- [eggNOG-mapper result](data/build/out.emapper.annotations.tsv)
 	- [GO analysis build script](data/build/build_local.R)
 	- [tree files](data/tree/)
+	- [Supplementray information](data/Supplementray%20information)
 - [Solo-LTRs identification](script/example.sh)
 	- [RepeatMasker](script/RepeatMasker/RepeatMasker.sh)
 	- [LTR-harvest](script/ltrharvest.sh)
 	- [Classify LTR by RBH](script/mark.ltr.sh)
 	- [TSD checking](script/TSD_checking/)
-- [Main Figure plot](plot/Main_Plot.Rmd)
-	- [Revigo_visualization](plot/Revigo_MF.r)
+- [Main Figure plot](Figures/Main_Plot.Rmd)
+	- [Figure_1](Figures/Figure_1)
+	- [Figure_2](Figures/Figure_2)
+	- [Figure_3](Figures/Figure_3)
+	- [Figure_4](Figures/Figure_4)
 
 ## Software dependencies
 * R package ggtree v3.3.0.900
