@@ -10,7 +10,7 @@ If any questions, contact at chenguangji@genomics.cn.
 	- [eggNOG-mapper result](data/build/out.emapper.annotations.tsv)
 	- [GO analysis build script](data/build/build_local.R)
 	- [tree files](data/tree/)
-	- [Supplementray information](data/Supplementray%20Information/)
+	- [Supplementary Information](data/Supplementary%20Information/)
 - [Solo-LTRs identification](script/example.sh)
 	- [RepeatMasker](script/RepeatMasker/RepeatMasker.sh)
 	- [LTR-harvest](script/ltrharvest.sh)
