@@ -1,5 +1,5 @@
 # Birds Solo-LTRs
-Data and code used in this research
+Data and code used in research: "Adaptive expansion of ERVK solo-LTRs is associated with Passeriformes speciation events".
 ## NOTES
 The genomes could also be downloaded from the NCBI database according to Supplemental Table S1. All the avian genomes used in this study are available at the Bird 10k project website: https://b10k.com/.
 
@@ -10,7 +10,7 @@ If any questions, contact at chenguangji@genomics.cn.
 	- [eggNOG-mapper result](data/build/out.emapper.annotations.tsv)
 	- [GO analysis build script](data/build/build_local.R)
 	- [tree files](data/tree/)
-	- [Supplementary Information](data/Supplementary%20Information/)
+	- [Supplementary Information](Figures/Supplementary%20Information/)
 - [Solo-LTRs identification](script/example.sh)
 	- [RepeatMasker](script/RepeatMasker/RepeatMasker.sh)
 	- [LTR-harvest](script/ltrharvest.sh)
