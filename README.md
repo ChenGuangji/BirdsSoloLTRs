@@ -3,7 +3,7 @@ Data and code used in research: "Adaptive expansion of ERVK solo-LTRs is associa
 
 ## Citation
 
-Chen, G., Yu, D., Yang Y. *et.al.* Adaptive expansion of ERVK solo-LTRs is associated with Passeriformes speciation events. ***Nat Commun***, *in press*, (2024).
+Chen, G., Yu, D., Yang Y. *et.al.* Adaptive expansion of ERVK solo-LTRs is associated with Passeriformes speciation events. ***Nat Commun*** 15, 3151 (2024). https://doi.org/10.1038/s41467-024-47501-3
 
 ## NOTES
 The genomes could also be downloaded from the NCBI database according to Supplemental Table S1. All the avian genomes used in this study are available at the Bird 10k project website: https://b10k.com/.
