@@ -1,0 +1,2 @@
+# config.perl.txt
+mafft = "PATH of mafft-ginsi"
